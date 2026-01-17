@@ -2,6 +2,7 @@
 这个人很懒，什么都没有留下。
 This person is very lazy and left nothing behind.
 この人はとても怠け者で、何も残さなかった。
+呢個人好懶，乜嘢都冇留下。
 
 
 <!--
