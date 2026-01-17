@@ -1,5 +1,6 @@
 ## Hi there 👋
 这个人很懒，什么都没有留下。
+This person is very lazy and left nothing behind.
 
 <!--
 **NagatoBigSeven/NagatoBigSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
