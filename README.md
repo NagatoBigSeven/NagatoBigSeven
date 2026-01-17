@@ -1,6 +1,8 @@
 ## Hi there 👋
 这个人很懒，什么都没有留下。
 This person is very lazy and left nothing behind.
+この人はとても怠け者で、何も残さなかった。
+
 
 <!--
 **NagatoBigSeven/NagatoBigSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
