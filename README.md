@@ -1,26 +1,225 @@
-## Hi there 👋
+<div align="right">
+  <a href="./README_CN.md">简体中文</a>
+</div>
 
-这个人很懒，什么都没有留下。🇨🇳
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Zongmin%20Zhang&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20for%20Science%20%7C%20AI%20for%20Chemistry%20%7C%20AutoResearch%20%7C%20Multi-Agent%20Systems%20%7C%20Large%20Language%20Models&descSize=16&descAlignY=55" width="100%"/>
+</div>
 
-This person is very lazy and left nothing behind. 🇺🇸
+<div align="center">
 
-この人はとても怠け者で、何も残さなかった。🇯🇵
+  ![Profile Views](https://komarev.com/ghpvc/?username=NagatoBigSeven&color=764ba2&style=flat-square)
+  [![Status](https://img.shields.io/badge/Status-Running_DFT_%E2%9A%9B%EF%B8%8F-2ea44f?style=flat-square)](#)
+  [![GitHub Followers](https://img.shields.io/github/followers/NagatoBigSeven?label=Followers&style=flat-square&color=blue&logo=github&logoColor=white)](https://github.com/NagatoBigSeven/?tab=follow)
+  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Cited%20by%205-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=2yrrFZkAAAAJ)
+  [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7179--3175-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7179-3175)
 
-呢個人好懶，乜嘢都冇留下。🇭🇰
+  [![Website](https://img.shields.io/badge/Website-nagatobigseven.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://nagatobigseven.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-zongmin--zhang-0A66C2?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/zongmin-zhang/)
+  [![Twitter](https://img.shields.io/badge/X-@zongmin__zhang-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zongmin_zhang)
+  [![OpenReview](https://img.shields.io/badge/OpenReview-Profile-B31B1B?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0xMiA1djE2TTMgM2g1YTQgNCAwIDAgMSA0IDQgNCA0IDAgMCAxIDQtNGg1djE2aC01YTQgNCAwIDAgMC00IDIgNCA0IDAgMCAwLTQtMkgzeiIvPjwvc3ZnPg%3D%3D)](https://openreview.net/profile?id=~Zongmin_Zhang2)
+  [![Email](https://img.shields.io/badge/Email-zzmhkust@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zzmhkust@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-CV_PDF-FF4B4B?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMy42MyAxNS4zYy0uNzEtLjc0NS0yLjE2Ni0xLjE3LTQuMjI0LTEuMTctMS4xIDAtMi4zNzcuMTA2LTMuNzYxLjM1NGExOS40NDMgMTkuNDQzIDAgMCAxLTIuMzA3LTIuNjYxYy0uNTMyLS43MS0uOTk0LTEuNDktMS40Mi0yLjIzNi44MTctMi40ODQgMS4yMDctNC41MDcgMS4yMDctNS45NjIgMC0xLjYzMi0uNjAzLTMuMzM2LTIuMzQyLTMuMzM2LS41MzIgMC0xLjA2NS4zMi0xLjM0OS43ODEtLjc4IDEuMzg0LS40MjUgNC40LjkyMyA3LjM4MWE2MC4yNzcgNjAuMjc3IDAgMCAxLTEuNzAzIDQuNTA3Yy0uNTY4IDEuMzQ5LTEuMjA3IDIuNzMzLTEuOTE3IDQuMDFDMi44MzQgMTguNTMuMzE0IDIwLjM0LjAzIDIxLjc1OGMtLjEwNi41MzMuMDcxIDEuMDMuNDYyIDEuNDIuMTQyLjEwNy42MzkuNTMzIDEuNDkuNTMzIDIuNTkgMCA1LjMyMy00LjE4OCA2LjcwNy02LjcwNyAxLjA2NS0uMzU1IDIuMTMtLjcxIDMuMTk0LS45OTRhMzQuOTYzIDM0Ljk2MyAwIDAgMSAzLjQwNy0uNzQ1YzIuNzMyIDIuNDQ4IDUuMTQ1IDIuODM5IDYuMzUyIDIuODM5IDEuNDkgMCAyLjAyMy0uNjA0IDIuMi0xLjEuMzItLjY0LjEwNi0xLjM0OS0uMjEzLTEuNzA0em0tMS40MiAxLjAzYy0uMTA3LjUzMi0uNjQuODg3LTEuMzg0Ljg4Ny0uMjEzIDAtLjM5LS4wMzYtLjYwNC0uMDcxLTEuMzQ4LS4zMi0yLjYyNi0uOTk0LTMuOTAzLTIuMDU5YTE3LjcxNyAxNy43MTcgMCAwIDEgMi45OC0uMjQ4Yy43NDYgMCAxLjM4NS4wMzUgMS44MS4xNDIuNDk3LjEwNiAxLjI3OC40MjYgMS4xIDEuMzQ4em0tNy41MjQtMS42NjhhMzguMDEgMzguMDEgMCAwIDAtMi45NDUuNjc0IDM5LjY4IDM5LjY4IDAgMCAwLTIuNTIuNzQ1IDQwLjA1IDQwLjA1IDAgMCAwIDEuMjA3LTIuNTU1Yy40MjYtLjk5NC43OC0yLjAyMyAxLjEzNi0yLjk4MS4zNTQuNjAzLjc0NSAxLjIwNyAxLjEzNSAxLjczOWE1MC4xMjcgNTAuMTI3IDAgMCAwIDEuOTg3IDIuMzc4ek0xMC4wMzggMS40NmEuNzY4Ljc2OCAwIDAgMSAuNjc0LS40MjVjLjc0NSAwIC44ODcuODUxLjg4NyAxLjUyNiAwIDEuMTM1LS4zNTUgMi44NzQtLjk1OCA0Ljg2MS0xLjAzLTIuNzY4LTEuMS01LjA3NC0uNjAzLTUuOTYyek02LjEzNCAxNy45OTdjLTEuODEgMi45ODEtMy41NDkgNC44MjYtNC42MTMgNC44MjZhLjg3Mi44NzIgMCAwIDEtLjUzMi0uMTc3Yy0uMjEzLS4yMTMtLjMyLS40NjEtLjI0OS0uNzQ1LjIxMy0xLjA2NSAyLjI3MS0yLjU1NSA1LjM5NC0zLjkwNFoiLz48L3N2Zz4%3D)](./Zongmin_Zhang_CV.pdf)
 
-Cette personne est très paresseuse et n'a rien laissé derrière elle. 🇫🇷
+</div>
 
-<!--
-**NagatoBigSeven/NagatoBigSeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=667eea&center=true&vCenter=true&width=650&lines=HKUST+Computer+Science+%2B+Chemistry+%7C+CGA+3.999%2F4.3;AI+for+Science+%C2%B7+AI+for+Chemistry+%C2%B7+AutoResearch;Multi-Agent+Systems+%C2%B7+LLM+%C2%B7+Embodied+AI;NeurIPS+%26+ICML+AI4S+Workshop+Reviewer" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<details>
+<summary><b>📑 Table of Contents (Click to expand)</b></summary>
+<br>
+
+- [👨‍💻 About Me](#%E2%80%8D-about-me)
+- [✨ Featured Work & Open Source](#-featured-work--open-source)
+- [📄 Publications & Preprints](#-publications--preprints)
+- [🔭 Research Experience](#-research-experience)
+- [🎓 Education](#-education)
+- [💼 Industry & Community Leadership](#-industry--community-leadership)
+- [🛠️ Technical Skills](#️-technical-skills)
+- [📈 GitHub Analytics](#-github-analytics)
+
+</details>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lOG5mMTlscHNmZjI3aDhkbzRxdHlmbjVxa3l2YWJmZTljOTBvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Science and AI GIF">
+
+I am an undergraduate at **The Hong Kong University of Science and Technology (HKUST)**, majoring in Computer Science with a minor in Chemistry. I was an exchange student at **EPFL, Switzerland** and took virtual coursework at **SJTU**. My research lies at the intersection of **AI and the physical sciences (AI4Science)** — building multi-agent systems that autonomously discover and validate catalytic materials.
+
+As the **Founding Organizer of the HKUST AI for Chemistry Club**, I am deeply passionate about bridging the gap between computer science algorithms and wet-lab chemical intuition, fostering a community of interdisciplinary innovators.
+
+- 🔬 **Research:** Multi-Agent Systems for autonomous catalyst discovery, LLM-driven scientific workflows, Embodied AI for lab safety.
+- 🏆 **Honors:** Dean's List ×4 · HKSAR Government Scholarship ×2 · HK-APEC Scholarship · Finalist, HKUST GenAI Hackathon · First Prize, 5th National Data Analysis Competition.
+- 📝 **Service:** Reviewer for *MLST (IOP)*, *NeurIPS'26 AI4S Workshop*, *ICML'26 AI4S Workshop*.
+- 🌏 **Languages:** Mandarin (native) · English (professional) · Japanese (JLPT N3) · French (CEFR A1) · Cantonese (basic).
+
+<br/>
+
+---
+
+## ✨ Featured Work & Open Source
+
+> 🚀 **AdsMind is Open Source!**
+> 
+> **[AdsMind](https://github.com/NagatoBigSeven/AdsMind)** is now public, including the Python package, Streamlit UI, curated benchmark inputs, and reproducibility scripts/results.
+>
+> 🚧 **CatDT** is planned for release upon publication, as described in the [paper](https://arxiv.org/abs/2606.05050).
+
+---
+
+## 📄 Publications & Preprints
+
+| # | Paper | Status |
+|:-:|:------|:-------|
+| 1 | **AdsMind:** A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces | Under review · [arXiv:2606.19152](https://arxiv.org/abs/2606.19152) |
+| 2 | **Autonomous Heterogeneous Catalyst Discovery** with a Self-Evolving Multi-Agent Digital Twin | Under review · [arXiv:2606.05050](https://arxiv.org/abs/2606.05050) |
+| 3 | **From Knowledge to Action:** Outcomes of the 2025 LLM Hackathon for Applications in Materials Science and Chemistry | [arXiv:2605.03205](https://arxiv.org/abs/2605.03205) |
+
+---
+
+## 🔭 Research Experience
+
+<details open>
+<summary><b>Final Year Project — HKUST (2026 – 2027 expected)</b></summary>
+
+> **Embodied Multi-Agent System for High-Stakes Environment Safety**
+> Advisors: Prof. Chaojian Li & Prof. Lixue Cheng
+>
+> The project aims to transfer autonomous driving architectures to edge-deployed labs, combining multi-agent reasoning, multimodal sensor fusion, and hardware-in-the-loop (HIL) control for laboratory safety.
+</details>
+
+<details open>
+<summary><b>UGRA — AI4PhysSci Lab, HKUST (02/2026 – present)</b></summary>
+
+> Supervisor: Prof. Lixue Cheng
+>
+> - Led the development of **AdsMind**: closed-loop architecture integrating generative agent proposals with machine-learning force-field (MLFF) relaxation feedback and self-correction, with DFT validation on representative systems.
+> - Built the first systematic multi-agent benchmark for adsorption structure prediction across diverse catalyst surfaces.
+> - Contributed to **CatDT**: self-evolving multi-agent digital-twin framework for autonomous heterogeneous catalyst discovery.
+</details>
+
+<details>
+<summary><b>Project Student — LIAC, ISIC, EPFL (09/2025 – 01/2026)</b></summary>
+
+> Supervisors: Prof. Philippe Schwaller & Dr. Edvin Fako
+>
+> Developed agentic simulation methods combining language-model reasoning with atomistic simulation backends. This semester project established the EPFL–HKUST collaboration that produced AdsMind.
+</details>
+
+<details>
+<summary><b>UROP — HKUST, Prof. Xiaojuan Ma (02 – 05/2025)</b></summary>
+
+> User Experience & Visual Representation in Virtual Reality
+</details>
+
+<details>
+<summary><b>UROP — HKUST, Prof. Raymond Chi-Wing Wong (06 – 12/2024)</b></summary>
+
+> Knowledge Discovery Over Database
+</details>
+
+---
+
+## 🎓 Education
+
+| Institution | Program | Period |
+|:------------|:--------|:-------|
+| **HKUST** | BEng Computer Science · Minor in Chemistry · CGA 3.999/4.3 | 09/2023 – present |
+| **EPFL**, Switzerland | Exchange, School of Computer and Communication Science | 09/2025 – 02/2026 |
+| **SJTU** (APRU Virtual) | MSE2602 Materials Chemistry | 02 – 06/2025 |
+
+---
+
+## 💼 Industry & Community Leadership
+
+| Role | Organization | Period |
+|:-----|:-------------|:-------|
+| Computer Vision Algorithm Intern | Sansen Well (Shanghai) Robotics Co., Ltd. | 06 – 08/2025 |
+| UGTA: COMP2011, CSE Programming Commons | HKUST | 2024 – 2026 |
+| **Founding Organizer** | **HKUST AI for Chemistry Club** | **2026 – present** |
+| Student Representative, SENG Mainland UG Recruitment | HKUST, Guangzhou | 06 – 07/2026 |
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xLjE5NCA3LjU0M3Y4LjkxM2MwIDEuMTAzLjU4OCAyLjEyMiAxLjU0NCAyLjY3NGw3LjcxOCA0LjQ1NmEzLjA4NiAzLjA4NiAwIDAgMCAzLjA4OCAwbDcuNzE4LTQuNDU2YTMuMDg3IDMuMDg3IDAgMCAwIDEuNTQ0LTIuNjc0VjcuNTQzYTMuMDg0IDMuMDg0IDAgMCAwLTEuNTQ0LTIuNjczTDEzLjU0NC40MTRhMy4wODYgMy4wODYgMCAwIDAtMy4wODggMEwyLjczOCA0Ljg3YTMuMDg1IDMuMDg1IDAgMCAwLTEuNTQ0IDIuNjczWm01LjQwMyAyLjkxNHYzLjA4N2EuNzcuNzcgMCAwIDAgLjc3Mi43NzIuNzczLjc3MyAwIDAgMCAuNzcyLS43NzIuNzczLjc3MyAwIDAgMSAxLjMxNy0uNTQ2Ljc3NS43NzUgMCAwIDEgLjIyNi41NDYgMi4zMTQgMi4zMTQgMCAxIDEtNC42MzEgMHYtMy4wODdjMC0uNjE1LjI0NC0xLjIwMy42NzktMS42MzdhMi4zMTIgMi4zMTIgMCAwIDEgMy4yNzQgMGMuNDM0LjQzNC42NzggMS4wMjMuNjc4IDEuNjM3YS43NjkuNzY5IDAgMCAxLS4yMjYuNTQ1Ljc2Ny43NjcgMCAwIDEtMS4wOTEgMCAuNzcuNzcgMCAwIDEtLjIyNi0uNTQ1Ljc3Ljc3IDAgMCAwLS43NzItLjc3Mi43NzEuNzcxIDAgMCAwLS43NzIuNzcyWm0xMi4zNSAzLjA4N2EuNzcuNzcgMCAwIDEtLjc3Mi43NzJoLS43NzJ2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjU0NCAwdi0uNzcyaC0xLjU0NHYuNzcyYS43NzMuNzczIDAgMCAxLTEuMzE3LjU0Ni43NzUuNzc1IDAgMCAxLS4yMjYtLjU0NnYtLjc3MkgxMmEuNzcxLjc3MSAwIDEgMSAwLTEuNTQ0aC43NzJ2LTEuNTQzSDEyYS43Ny43NyAwIDEgMSAwLTEuNTQ0aC43NzJ2LS43NzJhLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2di43NzJoMS41NDR2LS43NzJhLjc3My43NzMgMCAwIDEgMS41NDQgMHYuNzcyaC43NzJhLjc3Mi43NzIgMCAwIDEgMCAxLjU0NGgtLjc3MnYxLjU0M2guNzcyYS43NzYuNzc2IDAgMCAxIC43NzIuNzcyWm0tMy4wODgtMi4zMTVoLTEuNTQ0djEuNTQzaDEuNTQ0di0xLjU0M1oiLz48L3N2Zz4%3D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**AI / ML / LLM**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat-square)
+
+**Computer Vision & 3D**
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![SAM](https://img.shields.io/badge/SAM-0668E1?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![3D Reconstruction](https://img.shields.io/badge/3D_Reconstruction-FF6F00?style=flat-square)
+
+**Scientific Computing**
+
+![RDKit](https://img.shields.io/badge/RDKit-306998?style=flat-square&logo=python&logoColor=white)
+![ASE](https://img.shields.io/badge/ASE-4CAF50?style=flat-square)
+![VTK](https://img.shields.io/badge/VTK-064F8C?style=flat-square)
+
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Meta XR](https://img.shields.io/badge/Meta_XR-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/NagatoBigSeven">
+    <img src="https://github-readme-stats.vercel.app/api?username=NagatoBigSeven&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub public repository statistics" />
+  </a>
+  <a href="https://github.com/NagatoBigSeven">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagatoBigSeven&theme=tokyonight&hide_border=true" width="48%" alt="GitHub contribution streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/NagatoBigSeven">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatoBigSeven&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Most used languages in public repositories" />
+  </a>
+  <!-- 💡 To enable WakaTime coding stats, create a public WakaTime account, change width above to 48%, uncomment the block below, and replace 'NagatoBigSeven' with your WakaTime username:
+  <a href="https://wakatime.com/@NagatoBigSeven">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NagatoBigSeven&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  -->
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+</div>
