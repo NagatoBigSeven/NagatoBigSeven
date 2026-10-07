@@ -1,0 +1,16 @@
+{
+  "blog": "https://www.cnblogs.com/luotei",
+  "posts": [
+    {"title": "元素周期律 + 元素周期表", "date": "2021-09-02", "url": "https://www.cnblogs.com/luotei/p/15219152.html"},
+    {"title": "酸碱理论", "date": "2021-09-01", "url": "https://www.cnblogs.com/luotei/p/15214931.html"},
+    {"title": "氮族元素——磷", "date": "2021-08-28", "url": "https://www.cnblogs.com/luotei/p/15193597.html"}
+  ],
+  "projects": [
+    {"name": "AdsMind", "paper": "https://arxiv.org/abs/2606.19152", "code": "https://github.com/NagatoBigSeven/AdsMind", "examples": "https://github.com/NagatoBigSeven/AdsMind/tree/46f23e230c855c46b57f3dac7b4c2b252d5f45fd/datasets", "anchor": "adsmind"},
+    {"name": "CatDT", "paper": "https://arxiv.org/abs/2606.05050", "code": "https://github.com/AI4QC/catdt-gs", "examples": "https://github.com/AI4QC/catdt-gs/tree/d231612f42f7f3fe8a7ff4ec5df59b219ef0e8d9/deps/AdsorbDiff/output", "anchor": "catdt"},
+    {"name": "From Knowledge to Action", "paper": "https://arxiv.org/abs/2605.03205", "code": null, "examples": null, "anchor": null}
+  ],
+  "pt_source": "https://github.com/NagatoBigSeven/AdsMind/blob/46f23e230c855c46b57f3dac7b4c2b252d5f45fd/datasets/cmu20/09_Pt_111.xyz",
+  "catdt_example_base": "https://raw.githubusercontent.com/AI4QC/catdt-gs/d231612f42f7f3fe8a7ff4ec5df59b219ef0e8d9/deps/AdsorbDiff/output/Cu111_CO/",
+  "catdt_example_source": "https://github.com/AI4QC/catdt-gs/tree/d231612f42f7f3fe8a7ff4ec5df59b219ef0e8d9/deps/AdsorbDiff/output/Cu111_CO"
+}

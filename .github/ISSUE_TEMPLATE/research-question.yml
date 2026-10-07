@@ -1,0 +1,21 @@
+name: Research question / 科研交流
+description: Discuss a public research idea or reproducibility question / 交流公开研究思路或复现问题
+title: "[Research] "
+body:
+  - type: markdown
+    attributes:
+      value: "This issue is public. For private collaboration, email zzmhkust@gmail.com. Project bugs belong in the relevant project repository. / 此处公开可见；私密合作请邮件联系，项目缺陷请提交到对应项目仓库。"
+  - type: input
+    id: topic
+    attributes:
+      label: Topic / 主题
+      description: Paper, project, or research direction / 论文、项目或研究方向
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question or idea / 问题或想法
+      description: Include public references and reproduction details where relevant / 可附公开参考资料与复现细节
+    validations:
+      required: true

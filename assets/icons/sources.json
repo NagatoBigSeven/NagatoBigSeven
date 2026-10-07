@@ -1,0 +1,14 @@
+{
+  "source": "https://github.com/devicons/devicon",
+  "commit": "7330accdbc47e2dc0c19789a48533c4a3c50fe58",
+  "icons": [
+    "python",
+    "pytorch",
+    "numpy",
+    "opencv",
+    "rust",
+    "javascript",
+    "godot",
+    "unity"
+  ]
+}

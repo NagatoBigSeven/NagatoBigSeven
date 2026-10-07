@@ -1,0 +1,28 @@
+name: Profile interactive widgets
+on:
+  schedule:
+    - cron: '15 0 * * *'
+  workflow_dispatch:
+  issues:
+    types: [opened, edited, closed, reopened, deleted]
+permissions:
+  contents: write
+  issues: read
+concurrency:
+  group: profile-live
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Validate vote counting and widgets
+        run: python3 -m unittest discover -s .github/scripts -p 'test_profile*.py'
+      - name: Publish SVG widgets to asset branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/profile_live.py --publish

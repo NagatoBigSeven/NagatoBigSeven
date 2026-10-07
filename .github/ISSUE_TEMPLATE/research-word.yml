@@ -1,0 +1,15 @@
+name: Add a science topic / 添加科学主题
+description: What scientific problem should AI help solve? / 你希望 AI 解决什么科学问题？
+title: '[Research word]'
+body:
+  - type: markdown
+    attributes:
+      value: 'One open vote per account. Your newest valid submission replaces earlier ones; close it to withdraw, reopen it to vote again. 1–30 characters: letters, digits, spaces, +, -, / or dots. 每个账号一票；最新有效投稿替代旧投稿，关闭 Issue 可撤回，重新打开可恢复。'
+  - type: input
+    id: topic
+    attributes:
+      label: Research topic
+      description: A short scientific keyword / 简短的科学关键词，例如 Catalyst discovery
+      placeholder: Catalyst discovery
+    validations:
+      required: true

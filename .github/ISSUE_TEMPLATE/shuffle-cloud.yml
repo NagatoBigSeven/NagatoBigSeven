@@ -1,0 +1,11 @@
+name: Shuffle the cloud / 重新排列词云
+description: Change the word arrangement without changing votes / 重新排列，不改变票数
+title: '[Shuffle research cloud]'
+body:
+  - type: checkboxes
+    id: shuffle
+    attributes:
+      label: Shuffle request
+      options:
+        - label: Please rearrange the research word cloud / 请重新排列科学词云
+          required: true
