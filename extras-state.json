@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "repository": "NagatoBigSeven/Nagato-no-Quantum-Information-Notes",
+      "path": "en/Foundations/Computer Organization and Architecture/Digital Circuit.md",
+      "title": "Digital Circuit",
+      "updated_at": "2026-08-03T14:45:23Z",
+      "sha": "456395badc95471b3d6ab132be14a0123213b7a5",
+      "url": "https://github.com/NagatoBigSeven/Nagato-no-Quantum-Information-Notes/blob/456395badc95471b3d6ab132be14a0123213b7a5/en/Foundations/Computer%20Organization%20and%20Architecture/Digital%20Circuit.md"
+    },
+    {
+      "repository": "NagatoBigSeven/Nagato-no-GenAI-Notes",
+      "path": "生成式人工智能导论(Introduction to Generative Artifical Intelligence).md",
+      "title": "生成式人工智能导论(Introduction to Generative Artifical Intelligence)",
+      "updated_at": "2026-03-04T18:22:06Z",
+      "sha": "35202f6f03f4b765c817f53cd68a7d1f70584362",
+      "url": "https://github.com/NagatoBigSeven/Nagato-no-GenAI-Notes/blob/35202f6f03f4b765c817f53cd68a7d1f70584362/%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA%28Introduction%20to%20Generative%20Artifical%20Intelligence%29.md"
+    },
+    {
+      "repository": "NagatoBigSeven/Nagato-no-Fine-Tuning-Notes",
+      "path": "LLaMA Factory.md",
+      "title": "LLaMA Factory",
+      "updated_at": "2025-12-22T23:57:13Z",
+      "sha": "6e73551e6706cea586f5fbb72b9815509d4768cc",
+      "url": "https://github.com/NagatoBigSeven/Nagato-no-Fine-Tuning-Notes/blob/6e73551e6706cea586f5fbb72b9815509d4768cc/LLaMA%20Factory.md"
+    }
+  ],
+  "history": []
+}
