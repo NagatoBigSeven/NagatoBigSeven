@@ -593,6 +593,12 @@
       "url": "https://github.com/NVIDIA/Megatron-LM",
       "language": "Python",
       "description": "Ongoing research training transformer models at scale"
+    },
+    {
+      "name": "caol64/omni-article-markdown",
+      "url": "https://github.com/caol64/omni-article-markdown",
+      "language": "Python",
+      "description": "墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI"
     }
   ],
   "events": [],

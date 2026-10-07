@@ -113,6 +113,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/jackwener/xiaohongshu-cli">jackwener/xiaohongshu-cli</a> — A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API</p>
 <p><a href="https://github.com/openvla/openvla">openvla/openvla</a> — OpenVLA: An open-source vision-language-action model for robotic manipulation.</p>
 <p><a href="https://github.com/NVIDIA/Megatron-LM">NVIDIA/Megatron-LM</a> — Ongoing research training transformer models at scale</p>
+<p><a href="https://github.com/caol64/omni-article-markdown">caol64/omni-article-markdown</a> — 墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI</p>
 ## Rust
 
 <p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</p>
@@ -157,4 +158,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/sherrylixuecheng"><img src="https://avatars.githubusercontent.com/u/30811509?v=4" width="48" height="48" alt="sherrylixuecheng" /></a> sherrylixuecheng · NagatoBigSeven/AdsMind<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-07T18:14:14.651170+00:00 · UTC.
+Snapshot: 2026-10-07T18:16:57.891099+00:00 · UTC.
