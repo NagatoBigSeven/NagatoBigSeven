@@ -1,0 +1,625 @@
+{
+  "stars": [
+    {
+      "name": "AI4QC/catdt-gs",
+      "url": "https://github.com/AI4QC/catdt-gs",
+      "language": "Python",
+      "description": "A self-evolving multi-agent system (digital twin) for autonomous heterogeneous catalysis discovery"
+    },
+    {
+      "name": "NagatoBigSeven/NagatoBigSeven",
+      "url": "https://github.com/NagatoBigSeven/NagatoBigSeven",
+      "language": "Other",
+      "description": "My GitHub Profile README."
+    },
+    {
+      "name": "abhisheknaiidu/awesome-github-profile-readme",
+      "url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
+      "language": "Other",
+      "description": "😎 A curated list of awesome GitHub Profile which updates in real time "
+    },
+    {
+      "name": "ZainCheung/netease-cloud-api",
+      "url": "https://github.com/ZainCheung/netease-cloud-api",
+      "language": "PHP",
+      "description": "网易云音乐升级API"
+    },
+    {
+      "name": "davanstrien/hf-find",
+      "url": "https://github.com/davanstrien/hf-find",
+      "language": "Python",
+      "description": "hf CLI extension: semantic search over Hugging Face Hub datasets & models"
+    },
+    {
+      "name": "HenokB/hfsearch",
+      "url": "https://github.com/HenokB/hfsearch",
+      "language": "Python",
+      "description": "cli tool to search for models/datasets on huggingface and export them easily"
+    },
+    {
+      "name": "zakelfassi/hfpaper",
+      "url": "https://github.com/zakelfassi/hfpaper",
+      "language": "Go",
+      "description": "CLI for Hugging Face Papers API — search, read, and explore AI research papers from the terminal"
+    },
+    {
+      "name": "frenzymath/Archon-Horizon",
+      "url": "https://github.com/frenzymath/Archon-Horizon",
+      "language": "Python",
+      "description": "Workspace-first orchestration for long-horizon Lean 4 formalization agents."
+    },
+    {
+      "name": "freedom-introvert/biliSendCommAntifraud",
+      "url": "https://github.com/freedom-introvert/biliSendCommAntifraud",
+      "language": "Java",
+      "description": "哔哩发评反诈"
+    },
+    {
+      "name": "Yijia-Xiao/Protein-LLM-Survey",
+      "url": "https://github.com/Yijia-Xiao/Protein-LLM-Survey",
+      "language": "Other",
+      "description": "Large Language Models in Protein: A Comprehensive Survey"
+    },
+    {
+      "name": "ev-ev/mLearn",
+      "url": "https://github.com/ev-ev/mLearn",
+      "language": "Other",
+      "description": "A cross-platform desktop application made for Super-Fast Language Learning by immersion. Watch your favourite content in your target language."
+    },
+    {
+      "name": "google-deepmind/synthidbio",
+      "url": "https://github.com/google-deepmind/synthidbio",
+      "language": "Other",
+      "description": "SynthID Bio is a family of methods developed by Google DeepMind for embedding highly detectable yet function-preserving watermarks directly into AI-generated biological sequences and structures."
+    },
+    {
+      "name": "fcitx/fcitx5-rime",
+      "url": "https://github.com/fcitx/fcitx5-rime",
+      "language": "C++",
+      "description": "Rime (中州韵) support for fcitx5"
+    },
+    {
+      "name": "0xpili/simplified-technical-english",
+      "url": "https://github.com/0xpili/simplified-technical-english",
+      "language": "Python",
+      "description": "An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool."
+    },
+    {
+      "name": "shd101wyy/vscode-markdown-preview-enhanced",
+      "url": "https://github.com/shd101wyy/vscode-markdown-preview-enhanced",
+      "language": "TypeScript",
+      "description": "One of the \"BEST\" markdown preview extensions for Visual Studio Code"
+    },
+    {
+      "name": "feiniaoyun/feiniaoyun",
+      "url": "https://github.com/feiniaoyun/feiniaoyun",
+      "language": "Other",
+      "description": ""
+    },
+    {
+      "name": "ip2a/clash-cli",
+      "url": "https://github.com/ip2a/clash-cli",
+      "language": "Shell",
+      "description": "只需要有订阅链接，在linux命令行中轻松使用clash代理"
+    },
+    {
+      "name": "ZainCheung/netease-cloud-fastplay",
+      "url": "https://github.com/ZainCheung/netease-cloud-fastplay",
+      "language": "Python",
+      "description": "网易云音乐快速听歌，自定义听歌风格，一键刷听歌次数"
+    },
+    {
+      "name": "ddddxxx/LyricsX",
+      "url": "https://github.com/ddddxxx/LyricsX",
+      "language": "Swift",
+      "description": "🎶 Ultimate lyrics app for macOS."
+    },
+    {
+      "name": "RosettaCommons/RFdiffusion",
+      "url": "https://github.com/RosettaCommons/RFdiffusion",
+      "language": "Python",
+      "description": "Code for running RFdiffusion"
+    },
+    {
+      "name": "hicccc77/WeFlow",
+      "url": "https://github.com/hicccc77/WeFlow",
+      "language": "TypeScript",
+      "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用"
+    },
+    {
+      "name": "wanshuiyin/HERO-Anti-OverDefense",
+      "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+      "language": "Markdown",
+      "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI."
+    },
+    {
+      "name": "rime/plum",
+      "url": "https://github.com/rime/plum",
+      "language": "Shell",
+      "description": "東風破 /plum/: Rime configuration manager and input schema repository"
+    },
+    {
+      "name": "osfans/trime",
+      "url": "https://github.com/osfans/trime",
+      "language": "Kotlin",
+      "description": "同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android"
+    },
+    {
+      "name": "rime/weasel",
+      "url": "https://github.com/rime/weasel",
+      "language": "C++",
+      "description": "【小狼毫】Rime for Windows"
+    },
+    {
+      "name": "rime/squirrel",
+      "url": "https://github.com/rime/squirrel",
+      "language": "Swift",
+      "description": "【鼠鬚管】Rime for macOS"
+    },
+    {
+      "name": "pengliangAndroid/VirtualLocation",
+      "url": "https://github.com/pengliangAndroid/VirtualLocation",
+      "language": "Java",
+      "description": "免root虚拟定位"
+    },
+    {
+      "name": "google-deepmind/alphafold",
+      "url": "https://github.com/google-deepmind/alphafold",
+      "language": "Python",
+      "description": "Open source code for AlphaFold 2."
+    },
+    {
+      "name": "Hisn00w/ASu-skills",
+      "url": "https://github.com/Hisn00w/ASu-skills",
+      "language": "HTML",
+      "description": "🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。"
+    },
+    {
+      "name": "ningzimu/codex-ppt-skill",
+      "url": "https://github.com/ningzimu/codex-ppt-skill",
+      "language": "Python",
+      "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents"
+    },
+    {
+      "name": "conorbronsdon/avoid-ai-writing",
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "language": "JavaScript",
+      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes."
+    },
+    {
+      "name": "tigerdyger/PaperScout",
+      "url": "https://github.com/tigerdyger/PaperScout",
+      "language": "Python",
+      "description": "A reproducible CLI assistant for discovering high-attention AI/AI4S papers and generating evidence-grounded reading reports."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "language": "Python",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills-codex",
+      "url": "https://github.com/Imbad0202/academic-research-skills-codex",
+      "language": "Python",
+      "description": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows"
+    },
+    {
+      "name": "google-deepmind/science-skills",
+      "url": "https://github.com/google-deepmind/science-skills",
+      "language": "Python",
+      "description": "GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools."
+    },
+    {
+      "name": "MrGeDiao/shuorenhua",
+      "url": "https://github.com/MrGeDiao/shuorenhua",
+      "language": "Python",
+      "description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts."
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "language": "JavaScript",
+      "description": "Codex Dream Skin"
+    },
+    {
+      "name": "Mizar77/ml-paper-icons",
+      "url": "https://github.com/Mizar77/ml-paper-icons",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "Haojae/scipilot-figure-skill",
+      "url": "https://github.com/Haojae/scipilot-figure-skill",
+      "language": "Python",
+      "description": "SciPilot Skills family - Publication-grade scientific figure copilot for Claude Code "
+    },
+    {
+      "name": "S1mpleWind/wgy666",
+      "url": "https://github.com/S1mpleWind/wgy666",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-M2",
+      "url": "https://github.com/MiniMax-AI/MiniMax-M2",
+      "language": "Other",
+      "description": "MiniMax-M2, a model built for Max coding & agentic workflows."
+    },
+    {
+      "name": "haowang02/codex-candy-eval",
+      "url": "https://github.com/haowang02/codex-candy-eval",
+      "language": "Python",
+      "description": "Codex 降智测试"
+    },
+    {
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "language": "Markdown",
+      "description": "Skills for Designers and Engineers."
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "language": "Rust",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes"
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "language": "TypeScript",
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase."
+    },
+    {
+      "name": "WRicd/SafeRL-Shield",
+      "url": "https://github.com/WRicd/SafeRL-Shield",
+      "language": "Python",
+      "description": "This repository reimplements the Shield mechanism for Safe Reinforcement Learning using a Supervisor (supervisory control) approach. A safety monitor intervenes before the agent takes risky actions, ensuring constraint satisfaction."
+    },
+    {
+      "name": "WRicd/NovelCLF",
+      "url": "https://github.com/WRicd/NovelCLF",
+      "language": "Python",
+      "description": "This project aims to deploy pre-trained language models to build a highly accurate and scalable automated classification system for web novels."
+    },
+    {
+      "name": "WRicd/IEA-Data-Project",
+      "url": "https://github.com/WRicd/IEA-Data-Project",
+      "language": "Python",
+      "description": "An interactive visualization project exploring electric vehicle adoption using data from the International Energy Agency (IEA). Provides clear charts and dashboards on EV stock, sales, and market share across countries and years."
+    },
+    {
+      "name": "WRicd/DEEDScape",
+      "url": "https://github.com/WRicd/DEEDScape",
+      "language": "JavaScript",
+      "description": "DEED: The Dreamscape Visualization is an interactive, WebGL-powered data visualization project."
+    },
+    {
+      "name": "ChivaLryCieux/Aftermath",
+      "url": "https://github.com/ChivaLryCieux/Aftermath",
+      "language": "C#",
+      "description": "Aftermath, one of 2025 Tongji D&I game design programs, made with Unity 2022."
+    },
+    {
+      "name": "HughYau/AcademicForge",
+      "url": "https://github.com/HughYau/AcademicForge",
+      "language": "Python",
+      "description": "One Forge, All Skills: A curated skill collection for academic writing and research.  点开即用，按需配置的一站式学术研究skills平台。"
+    },
+    {
+      "name": "JimLiu/science-skills",
+      "url": "https://github.com/JimLiu/science-skills",
+      "language": "HTML",
+      "description": ""
+    },
+    {
+      "name": "facebookresearch/TUA-Bench",
+      "url": "https://github.com/facebookresearch/TUA-Bench",
+      "language": "Python",
+      "description": "A benchmark for general-purpose terminal-use agents."
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "shinaoka/agentic-ai-coding-rust",
+      "url": "https://github.com/shinaoka/agentic-ai-coding-rust",
+      "language": "Typst",
+      "description": "Lecture slides: Agentic AI Coding × Rust (物理屋のための機械学習講義 #22)"
+    },
+    {
+      "name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "language": "Python",
+      "description": "Build resilient agents."
+    },
+    {
+      "name": "1anj/academic-integrity-skill",
+      "url": "https://github.com/1anj/academic-integrity-skill",
+      "language": "Python",
+      "description": "耿同学 Skill ｜ Academic-Integrity Self-Audit Skill"
+    },
+    {
+      "name": "ok-oldking/ok-script",
+      "url": "https://github.com/ok-oldking/ok-script",
+      "language": "Python",
+      "description": "Modern Python Computer Vision Automation Framework"
+    },
+    {
+      "name": "rmyndharis/antigravity-skills",
+      "url": "https://github.com/rmyndharis/antigravity-skills",
+      "language": "JavaScript",
+      "description": "A curated collection of Agent Skills for Google Antigravity"
+    },
+    {
+      "name": "harbor-framework/terminal-bench-2",
+      "url": "https://github.com/harbor-framework/terminal-bench-2",
+      "language": "Shell",
+      "description": ""
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "language": "Python",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+    },
+    {
+      "name": "harbor-framework/terminal-bench",
+      "url": "https://github.com/harbor-framework/terminal-bench",
+      "language": "Python",
+      "description": "Measuring and evolving with the frontier of agent work"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "xingwudao/xquant-beginner",
+      "url": "https://github.com/xingwudao/xquant-beginner",
+      "language": "TypeScript",
+      "description": "《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "url": "https://github.com/2dust/v2rayN",
+      "language": "C#",
+      "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others"
+    },
+    {
+      "name": "abxxvrv/spacex-ppt-skill",
+      "url": "https://github.com/abxxvrv/spacex-ppt-skill",
+      "language": "HTML",
+      "description": ""
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "language": "Python",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms"
+    },
+    {
+      "name": "Kiterlin/anti-defensive-writing",
+      "url": "https://github.com/Kiterlin/anti-defensive-writing",
+      "language": "PowerShell",
+      "description": "Codex skill for removing defensive writing and strengthening prose."
+    },
+    {
+      "name": "Fzhiyu1/improv-os",
+      "url": "https://github.com/Fzhiyu1/improv-os",
+      "language": "JavaScript",
+      "description": "现编OS — 一台不预装任何软件的电脑，每个应用都是 AI 当场现编的 macOS 风格网页OS · An OS where every app is improvised by AI, live"
+    },
+    {
+      "name": "Nine-Three-Cattery/PSC-Copilot",
+      "url": "https://github.com/Nine-Three-Cattery/PSC-Copilot",
+      "language": "JavaScript",
+      "description": "GenAI Examiner for Cantonese-Speaking PSC Examinees"
+    },
+    {
+      "name": "usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery",
+      "url": "https://github.com/usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery",
+      "language": "Other",
+      "description": "[NeurIPS2025] Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition"
+    },
+    {
+      "name": "Xin-Jiaqi/minimal-academic-homepage",
+      "url": "https://github.com/Xin-Jiaqi/minimal-academic-homepage",
+      "language": "HTML",
+      "description": "A minimal, responsive academic homepage template for GitHub Pages"
+    },
+    {
+      "name": "NagatoBigSeven/NagatoBigSeven.github.io",
+      "url": "https://github.com/NagatoBigSeven/NagatoBigSeven.github.io",
+      "language": "JavaScript",
+      "description": "My academic homepage."
+    },
+    {
+      "name": "AI4QC/AdsMind",
+      "url": "https://github.com/AI4QC/AdsMind",
+      "language": "Jupyter Notebook",
+      "description": "A Physics-Grounded Agent for Self-Correcting Adsorption Configuration Discovery on Heterogeneous Catalyst Surfaces"
+    },
+    {
+      "name": "NagatoBigSeven/Agent-and-Wolf",
+      "url": "https://github.com/NagatoBigSeven/Agent-and-Wolf",
+      "language": "Python",
+      "description": "An ReAct agent that role-plays as the heroine \"Wise Wolf\" Holo of Isuna Hasekura‘s light novel Spice and Wolf"
+    },
+    {
+      "name": "NagatoBigSeven/Nagato-no-Quantum-Information-Notes",
+      "url": "https://github.com/NagatoBigSeven/Nagato-no-Quantum-Information-Notes",
+      "language": "Other",
+      "description": "Nagato's Markdown notes of HKUST course PHYS1007 - Quantum Information for Everyone taught by Prof. Shilin Huang in Spring Semester 2024-25, with formulas rendered in LaTex. Simplified Chinese version only. Use Obsidian to open."
+    },
+    {
+      "name": "NeuroDong/Ai-Review",
+      "url": "https://github.com/NeuroDong/Ai-Review",
+      "language": "Other",
+      "description": "Large model-assisted paper review"
+    },
+    {
+      "name": "zhaochen0110/COMP4221-Vibe-Coding-Tutorial",
+      "url": "https://github.com/zhaochen0110/COMP4221-Vibe-Coding-Tutorial",
+      "language": "Other",
+      "description": "HKUST CSE COMP4221 (L1) - Introduction to Natural Language Processing: Tutorial on Vibe Coding & Vibe Research for LLM Research"
+    },
+    {
+      "name": "Yuan1z0825/nature-skills",
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "language": "Python",
+      "description": "符合nature论文学术表达和科研绘图的Skill"
+    },
+    {
+      "name": "agent-infra/sandbox",
+      "url": "https://github.com/agent-infra/sandbox",
+      "language": "Python",
+      "description": "All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container."
+    },
+    {
+      "name": "yamadashy/repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "language": "TypeScript",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
+    },
+    {
+      "name": "dlvhdr/gh-dash",
+      "url": "https://github.com/dlvhdr/gh-dash",
+      "language": "Go",
+      "description": "A rich terminal UI for GitHub that doesn't break your flow."
+    },
+    {
+      "name": "Westlake-AGI-Lab/AppAgentX",
+      "url": "https://github.com/Westlake-AGI-Lab/AppAgentX",
+      "language": "Python",
+      "description": "Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users"
+    },
+    {
+      "name": "jaywcjlove/awesome-swift-macos-apps",
+      "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps",
+      "language": "Swift",
+      "description": "A curated collection of open-source macOS applications built with Swift"
+    },
+    {
+      "name": "public-clis/bilibili-cli",
+      "url": "https://github.com/public-clis/bilibili-cli",
+      "language": "Python",
+      "description": "A CLI for Bilibili — browse videos, users, search, and feeds from the terminal"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "name": "jackwener/xiaohongshu-cli",
+      "url": "https://github.com/jackwener/xiaohongshu-cli",
+      "language": "Python",
+      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+    },
+    {
+      "name": "SSD114/skadi-pet",
+      "url": "https://github.com/SSD114/skadi-pet",
+      "language": "Other",
+      "description": "A custom Codex pet for Skadi from Arknights."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "language": "Rust",
+      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust"
+    },
+    {
+      "name": "avinash201199/Free-courses-with-Certificates",
+      "url": "https://github.com/avinash201199/Free-courses-with-Certificates",
+      "language": "CSS",
+      "description": "Collection of free courses with certificates"
+    },
+    {
+      "name": "openvla/openvla",
+      "url": "https://github.com/openvla/openvla",
+      "language": "Python",
+      "description": "OpenVLA: An open-source vision-language-action model for robotic manipulation."
+    },
+    {
+      "name": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "language": "C",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
+    },
+    {
+      "name": "SSD114/SSD114",
+      "url": "https://github.com/SSD114/SSD114",
+      "language": "Other",
+      "description": ""
+    },
+    {
+      "name": "xishang0128/sparkle",
+      "url": "https://github.com/xishang0128/sparkle",
+      "language": "TypeScript",
+      "description": ":electron: Another Mihomo GUI. (🛠building...)"
+    },
+    {
+      "name": "wgy2006/MemoryJournal",
+      "url": "https://github.com/wgy2006/MemoryJournal",
+      "language": "Swift",
+      "description": ""
+    },
+    {
+      "name": "NVIDIA/Megatron-LM",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "language": "Python",
+      "description": "Ongoing research training transformer models at scale"
+    }
+  ],
+  "events": [],
+  "people": [
+    {
+      "login": "NagatoBigSeven",
+      "url": "https://github.com/NagatoBigSeven",
+      "avatar": "https://avatars.githubusercontent.com/u/174092780?v=4",
+      "repos": [
+        "NagatoBigSeven/AdsMind"
+      ]
+    },
+    {
+      "login": "sherrylixuecheng",
+      "url": "https://github.com/sherrylixuecheng",
+      "avatar": "https://avatars.githubusercontent.com/u/30811509?v=4",
+      "repos": [
+        "NagatoBigSeven/AdsMind"
+      ]
+    },
+    {
+      "login": "szl666",
+      "url": "https://github.com/szl666",
+      "avatar": "https://avatars.githubusercontent.com/u/44625390?v=4",
+      "repos": [
+        "AI4QC/catdt-gs"
+      ]
+    }
+  ]
+}
