@@ -78,7 +78,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/AI4QC/catdt-gs">AI4QC/catdt-gs</a> — A self-evolving multi-agent system (digital twin) for autonomous heterogeneous catalysis discovery</p>
 <p><a href="https://github.com/davanstrien/hf-find">davanstrien/hf-find</a> — hf CLI extension: semantic search over Hugging Face Hub datasets &amp; models</p>
 <p><a href="https://github.com/HenokB/hfsearch">HenokB/hfsearch</a> — cli tool to search for models/datasets on huggingface and export them easily</p>
-<p><a href="https://github.com/frenzymath/Archon-Horizon">frenzymath/Archon-Horizon</a> — Workspace-first orchestration for long-horizon Lean 4 formalization agents.</p>
+<p><a href="https://github.com/frenzymath/Archon-Horizon">frenzymath/Archon-Horizon</a> — Distributed, objective-led control plane for Lean 4 formalization projects.</p>
 <p><a href="https://github.com/0xpili/simplified-technical-english">0xpili/simplified-technical-english</a> — An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.</p>
 <p><a href="https://github.com/ZainCheung/netease-cloud-fastplay">ZainCheung/netease-cloud-fastplay</a> — 网易云音乐快速听歌，自定义听歌风格，一键刷听歌次数</p>
 <p><a href="https://github.com/RosettaCommons/RFdiffusion">RosettaCommons/RFdiffusion</a> — Code for running RFdiffusion</p>
@@ -158,4 +158,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/sherrylixuecheng"><img src="https://avatars.githubusercontent.com/u/30811509?v=4" width="48" height="48" alt="sherrylixuecheng" /></a> sherrylixuecheng · NagatoBigSeven/AdsMind<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-08T06:05:51.013117+00:00 · UTC.
+Snapshot: 2026-10-09T06:10:09.206865+00:00 · UTC.

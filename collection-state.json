@@ -46,7 +46,7 @@
       "name": "frenzymath/Archon-Horizon",
       "url": "https://github.com/frenzymath/Archon-Horizon",
       "language": "Python",
-      "description": "Workspace-first orchestration for long-horizon Lean 4 formalization agents."
+      "description": "Distributed, objective-led control plane for Lean 4 formalization projects."
     },
     {
       "name": "freedom-introvert/biliSendCommAntifraud",
