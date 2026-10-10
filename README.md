@@ -226,9 +226,9 @@ A self-evolving multi-agent digital twin for autonomous heterogeneous catalyst d
 
 <!-- PAPERS:START -->
 | # | Paper | Status |
-|:-:|:------|:-------|
+|:-:|:------|:------|
 | 1 | **AdsMind:** A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces | Under review · [arXiv:2606.19152](https://arxiv.org/abs/2606.19152) |
-| 2 | **Autonomous Heterogeneous Catalyst Discovery** with a Self-Evolving Multi-Agent Digital Twin | Under review · [arXiv:2606.05050](https://arxiv.org/abs/2606.05050) |
+| 2 | **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** | Under review · [arXiv:2606.05050](https://arxiv.org/abs/2606.05050) |
 | 3 | **From Knowledge to Action:** Outcomes of the 2025 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry | [arXiv:2605.03205](https://arxiv.org/abs/2605.03205) |
 <!-- PAPERS:END -->
 
@@ -586,7 +586,8 @@ Only public WakaTime records are used. Until connected, no hours are shown; the 
 <a href="https://github.com/NagatoBigSeven/NagatoBigSeven/actions/workflows/daily_update.yml" title="View paper and quote update workflow"><img src="https://github.com/NagatoBigSeven/NagatoBigSeven/actions/workflows/daily_update.yml/badge.svg" height="20" alt="README update workflow status" /></a>
 
 <!-- QUOTE:START -->
-> “探索未知，步履不停。”
+> “It's the little things done consistently over time, straight from your heart, that have the greatest impact.”  
+> —— *Unknown*
 <!-- QUOTE:END -->
 
 </div>

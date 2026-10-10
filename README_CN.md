@@ -228,7 +228,7 @@
 | # | 论文标题 | 状态 |
 |:-:|:------|:------|
 | 1 | **AdsMind:** A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces | 审稿中 · [arXiv:2606.19152](https://arxiv.org/abs/2606.19152) |
-| 2 | **Autonomous Heterogeneous Catalyst Discovery** with a Self-Evolving Multi-Agent Digital Twin | 审稿中 · [arXiv:2606.05050](https://arxiv.org/abs/2606.05050) |
+| 2 | **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** | 审稿中 · [arXiv:2606.05050](https://arxiv.org/abs/2606.05050) |
 | 3 | **From Knowledge to Action:** Outcomes of the 2025 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry | [arXiv:2605.03205](https://arxiv.org/abs/2605.03205) |
 <!-- PAPERS:END -->
 
@@ -584,7 +584,8 @@ CatDT：以下图片来自仓库中的 AdsorbDiff 模块示例，分别为初始
 <a href="https://github.com/NagatoBigSeven/NagatoBigSeven/actions/workflows/daily_update.yml" title="查看论文与引用更新工作流"><img src="https://github.com/NagatoBigSeven/NagatoBigSeven/actions/workflows/daily_update.yml/badge.svg" height="20" alt="README 更新工作流状态" /></a>
 
 <!-- QUOTE:START -->
-> “探索未知，步履不停。”
+> “人类一思考，上帝就发笑。”  
+> —— *米兰·昆德拉 《生命中不可承受之轻》*
 <!-- QUOTE:END -->
 
 </div>
