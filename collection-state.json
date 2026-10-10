@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "Predidit/Kazumi",
+      "url": "https://github.com/Predidit/Kazumi",
+      "language": "Dart",
+      "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+    },
+    {
       "name": "AI4QC/catdt-gs",
       "url": "https://github.com/AI4QC/catdt-gs",
       "language": "Python",
@@ -550,7 +556,7 @@
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "language": "Rust",
-      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust"
+      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS."
     },
     {
       "name": "avinash201199/Free-courses-with-Certificates",
@@ -593,12 +599,6 @@
       "url": "https://github.com/NVIDIA/Megatron-LM",
       "language": "Python",
       "description": "Ongoing research training transformer models at scale"
-    },
-    {
-      "name": "caol64/omni-article-markdown",
-      "url": "https://github.com/caol64/omni-article-markdown",
-      "language": "Python",
-      "description": "墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI"
     }
   ],
   "events": [],
@@ -617,6 +617,14 @@
       "avatar": "https://avatars.githubusercontent.com/u/30811509?v=4",
       "repos": [
         "NagatoBigSeven/AdsMind"
+      ]
+    },
+    {
+      "login": "smoakvescio",
+      "url": "https://github.com/smoakvescio",
+      "avatar": "https://avatars.githubusercontent.com/u/314697893?v=4",
+      "repos": [
+        "AI4QC/catdt-gs"
       ]
     },
     {

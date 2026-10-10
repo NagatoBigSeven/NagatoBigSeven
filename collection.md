@@ -18,6 +18,9 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 ## CSS
 
 <p><a href="https://github.com/avinash201199/Free-courses-with-Certificates">avinash201199/Free-courses-with-Certificates</a> — Collection of free courses with certificates</p>
+## Dart
+
+<p><a href="https://github.com/Predidit/Kazumi">Predidit/Kazumi</a> — 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</p>
 ## Go
 
 <p><a href="https://github.com/zakelfassi/hfpaper">zakelfassi/hfpaper</a> — CLI for Hugging Face Papers API — search, read, and explore AI research papers from the terminal</p>
@@ -113,11 +116,10 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/jackwener/xiaohongshu-cli">jackwener/xiaohongshu-cli</a> — A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API</p>
 <p><a href="https://github.com/openvla/openvla">openvla/openvla</a> — OpenVLA: An open-source vision-language-action model for robotic manipulation.</p>
 <p><a href="https://github.com/NVIDIA/Megatron-LM">NVIDIA/Megatron-LM</a> — Ongoing research training transformer models at scale</p>
-<p><a href="https://github.com/caol64/omni-article-markdown">caol64/omni-article-markdown</a> — 墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI</p>
 ## Rust
 
 <p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</p>
-<p><a href="https://github.com/tinyhumansai/openhuman">tinyhumansai/openhuman</a> — OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust</p>
+<p><a href="https://github.com/tinyhumansai/openhuman">tinyhumansai/openhuman</a> — The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.</p>
 ## Shell
 
 <p><a href="https://github.com/ip2a/clash-cli">ip2a/clash-cli</a> — 只需要有订阅链接，在linux命令行中轻松使用clash代理</p>
@@ -156,6 +158,7 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 
 <a href="https://github.com/NagatoBigSeven"><img src="https://avatars.githubusercontent.com/u/174092780?v=4" width="48" height="48" alt="NagatoBigSeven" /></a> NagatoBigSeven · NagatoBigSeven/AdsMind<br />
 <a href="https://github.com/sherrylixuecheng"><img src="https://avatars.githubusercontent.com/u/30811509?v=4" width="48" height="48" alt="sherrylixuecheng" /></a> sherrylixuecheng · NagatoBigSeven/AdsMind<br />
+<a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-09T06:10:09.206865+00:00 · UTC.
+Snapshot: 2026-10-10T05:54:07.283775+00:00 · UTC.
