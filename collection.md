@@ -115,7 +115,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/public-clis/bilibili-cli">public-clis/bilibili-cli</a> — A CLI for Bilibili — browse videos, users, search, and feeds from the terminal</p>
 <p><a href="https://github.com/jackwener/xiaohongshu-cli">jackwener/xiaohongshu-cli</a> — A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API</p>
 <p><a href="https://github.com/openvla/openvla">openvla/openvla</a> — OpenVLA: An open-source vision-language-action model for robotic manipulation.</p>
-<p><a href="https://github.com/NVIDIA/Megatron-LM">NVIDIA/Megatron-LM</a> — Ongoing research training transformer models at scale</p>
 ## Rust
 
 <p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</p>
@@ -133,6 +132,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/wgy2006/MemoryJournal">wgy2006/MemoryJournal</a> — </p>
 ## TypeScript
 
+<p><a href="https://github.com/morluto/rea">morluto/rea</a> — Reverse engineer anything with agents, from app behavior down to native binaries.</p>
 <p><a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced">shd101wyy/vscode-markdown-preview-enhanced</a> — One of the &quot;BEST&quot; markdown preview extensions for Visual Studio Code</p>
 <p><a href="https://github.com/hicccc77/WeFlow">hicccc77/WeFlow</a> — WeFlow - 一个本地的微信聊天记录导出和年度报告应用</p>
 <p><a href="https://github.com/langchain-ai/openwiki">langchain-ai/openwiki</a> — OpenWiki is a CLI that writes and maintains agent documentation for your codebase.</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-10T05:54:07.283775+00:00 · UTC.
+Snapshot: 2026-10-11T05:48:10.002922+00:00 · UTC.

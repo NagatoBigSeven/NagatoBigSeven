@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
       "name": "Predidit/Kazumi",
       "url": "https://github.com/Predidit/Kazumi",
       "language": "Dart",
@@ -593,12 +599,6 @@
       "url": "https://github.com/wgy2006/MemoryJournal",
       "language": "Swift",
       "description": ""
-    },
-    {
-      "name": "NVIDIA/Megatron-LM",
-      "url": "https://github.com/NVIDIA/Megatron-LM",
-      "language": "Python",
-      "description": "Ongoing research training transformer models at scale"
     }
   ],
   "events": [],
