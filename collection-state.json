@@ -250,7 +250,7 @@
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "language": "C",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
     {
       "name": "Haojae/scipilot-figure-skill",
@@ -259,8 +259,8 @@
       "description": "SciPilot Skills family - Publication-grade scientific figure copilot for Claude Code "
     },
     {
-      "name": "S1mpleWind/wgy666",
-      "url": "https://github.com/S1mpleWind/wgy666",
+      "name": "S1mpleWind/IssueScope",
+      "url": "https://github.com/S1mpleWind/IssueScope",
       "language": "Python",
       "description": ""
     },

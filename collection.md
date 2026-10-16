@@ -5,7 +5,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 
 ## C
 
-<p><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a> — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</p>
+<p><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a> — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</p>
 <p><a href="https://github.com/antirez/ds4">antirez/ds4</a> — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</p>
 ## C#
 
@@ -95,7 +95,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/MrGeDiao/shuorenhua">MrGeDiao/shuorenhua</a> — 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.</p>
 <p><a href="https://github.com/Mizar77/ml-paper-icons">Mizar77/ml-paper-icons</a> — </p>
 <p><a href="https://github.com/Haojae/scipilot-figure-skill">Haojae/scipilot-figure-skill</a> — SciPilot Skills family - Publication-grade scientific figure copilot for Claude Code </p>
-<p><a href="https://github.com/S1mpleWind/wgy666">S1mpleWind/wgy666</a> — </p>
+<p><a href="https://github.com/S1mpleWind/IssueScope">S1mpleWind/IssueScope</a> — </p>
 <p><a href="https://github.com/haowang02/codex-candy-eval">haowang02/codex-candy-eval</a> — Codex 降智测试</p>
 <p><a href="https://github.com/WRicd/SafeRL-Shield">WRicd/SafeRL-Shield</a> — This repository reimplements the Shield mechanism for Safe Reinforcement Learning using a Supervisor (supervisory control) approach. A safety monitor intervenes before the agent takes risky actions, ensuring constraint satisfaction.</p>
 <p><a href="https://github.com/WRicd/NovelCLF">WRicd/NovelCLF</a> — This project aims to deploy pre-trained language models to build a highly accurate and scalable automated classification system for web novels.</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-15T04:40:43.001064+00:00 · UTC.
+Snapshot: 2026-10-16T04:33:40.867714+00:00 · UTC.
