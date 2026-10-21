@@ -5,7 +5,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 
 ## C
 
-<p><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a> — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</p>
+<p><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a> — Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.</p>
 <p><a href="https://github.com/antirez/ds4">antirez/ds4</a> — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</p>
 ## C#
 
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-20T04:52:11.008481+00:00 · UTC.
+Snapshot: 2026-10-21T04:49:28.979980+00:00 · UTC.
