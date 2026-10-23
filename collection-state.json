@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "c1overzz/dsh-bili-scroll",
+      "url": "https://github.com/c1overzz/dsh-bili-scroll",
+      "language": "JavaScript",
+      "description": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你"
+    },
+    {
       "name": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "language": "TypeScript",
@@ -593,12 +599,6 @@
       "url": "https://github.com/xishang0128/sparkle",
       "language": "TypeScript",
       "description": ":electron: Another Mihomo GUI. (🛠building...)"
-    },
-    {
-      "name": "wgy2006/MemoryJournal",
-      "url": "https://github.com/wgy2006/MemoryJournal",
-      "language": "Swift",
-      "description": ""
     }
   ],
   "events": [],

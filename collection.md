@@ -37,6 +37,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/pengliangAndroid/VirtualLocation">pengliangAndroid/VirtualLocation</a> — 免root虚拟定位</p>
 ## JavaScript
 
+<p><a href="https://github.com/c1overzz/dsh-bili-scroll">c1overzz/dsh-bili-scroll</a> — DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你</p>
 <p><a href="https://github.com/conorbronsdon/avoid-ai-writing">conorbronsdon/avoid-ai-writing</a> — Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.</p>
 <p><a href="https://github.com/Fei-Away/Codex-Dream-Skin">Fei-Away/Codex-Dream-Skin</a> — Codex Dream Skin</p>
 <p><a href="https://github.com/WRicd/DEEDScape">WRicd/DEEDScape</a> — DEED: The Dreamscape Visualization is an interactive, WebGL-powered data visualization project.</p>
@@ -129,7 +130,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/ddddxxx/LyricsX">ddddxxx/LyricsX</a> — 🎶 Ultimate lyrics app for macOS.</p>
 <p><a href="https://github.com/rime/squirrel">rime/squirrel</a> — 【鼠鬚管】Rime for macOS</p>
 <p><a href="https://github.com/jaywcjlove/awesome-swift-macos-apps">jaywcjlove/awesome-swift-macos-apps</a> — A curated collection of open-source macOS applications built with Swift</p>
-<p><a href="https://github.com/wgy2006/MemoryJournal">wgy2006/MemoryJournal</a> — </p>
 ## TypeScript
 
 <p><a href="https://github.com/morluto/rea">morluto/rea</a> — Reverse engineer anything with agents, from app behavior down to native binaries.</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-22T04:48:15.296009+00:00 · UTC.
+Snapshot: 2026-10-23T04:50:59.014476+00:00 · UTC.
