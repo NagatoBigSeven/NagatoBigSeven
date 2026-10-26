@@ -118,7 +118,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/openvla/openvla">openvla/openvla</a> — OpenVLA: An open-source vision-language-action model for robotic manipulation.</p>
 ## Rust
 
-<p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes</p>
+<p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker &amp; Assistant for macOS &amp; Windows</p>
 <p><a href="https://github.com/tinyhumansai/openhuman">tinyhumansai/openhuman</a> — The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.</p>
 ## Shell
 
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-25T04:42:51.838400+00:00 · UTC.
+Snapshot: 2026-10-26T04:48:41.173067+00:00 · UTC.
