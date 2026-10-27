@@ -33,6 +33,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Xin-Jiaqi/minimal-academic-homepage">Xin-Jiaqi/minimal-academic-homepage</a> — A minimal, responsive academic homepage template for GitHub Pages</p>
 ## Java
 
+<p><a href="https://github.com/antest1/GotoBrowser">antest1/GotoBrowser</a> — Android Browser for KanColle 2nd Phase (HTML5)</p>
 <p><a href="https://github.com/freedom-introvert/biliSendCommAntifraud">freedom-introvert/biliSendCommAntifraud</a> — 哔哩发评反诈</p>
 <p><a href="https://github.com/pengliangAndroid/VirtualLocation">pengliangAndroid/VirtualLocation</a> — 免root虚拟定位</p>
 ## JavaScript
@@ -141,7 +142,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/yamadashy/repomix">yamadashy/repomix</a> — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.</p>
 <p><a href="https://github.com/rohitg00/agentmemory">rohitg00/agentmemory</a> — #1 Persistent memory for AI coding agents based on real-world benchmarks</p>
 <p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory">TencentCloud/TencentDB-Agent-Memory</a> — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</p>
-<p><a href="https://github.com/xishang0128/sparkle">xishang0128/sparkle</a> — :electron: Another Mihomo GUI. (🛠building...)</p>
 ## Typst
 
 <p><a href="https://github.com/shinaoka/agentic-ai-coding-rust">shinaoka/agentic-ai-coding-rust</a> — Lecture slides: Agentic AI Coding × Rust (物理屋のための機械学習講義 #22)</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-26T04:48:41.173067+00:00 · UTC.
+Snapshot: 2026-10-27T05:06:41.485604+00:00 · UTC.

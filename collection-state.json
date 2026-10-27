@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "antest1/GotoBrowser",
+      "url": "https://github.com/antest1/GotoBrowser",
+      "language": "Java",
+      "description": "Android Browser for KanColle 2nd Phase (HTML5)"
+    },
+    {
       "name": "c1overzz/dsh-bili-scroll",
       "url": "https://github.com/c1overzz/dsh-bili-scroll",
       "language": "JavaScript",
@@ -593,12 +599,6 @@
       "url": "https://github.com/SSD114/SSD114",
       "language": "Other",
       "description": ""
-    },
-    {
-      "name": "xishang0128/sparkle",
-      "url": "https://github.com/xishang0128/sparkle",
-      "language": "TypeScript",
-      "description": ":electron: Another Mihomo GUI. (🛠building...)"
     }
   ],
   "events": [],
