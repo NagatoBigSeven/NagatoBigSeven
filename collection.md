@@ -71,7 +71,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/NeuroDong/Ai-Review">NeuroDong/Ai-Review</a> — Large model-assisted paper review</p>
 <p><a href="https://github.com/zhaochen0110/COMP4221-Vibe-Coding-Tutorial">zhaochen0110/COMP4221-Vibe-Coding-Tutorial</a> — HKUST CSE COMP4221 (L1) - Introduction to Natural Language Processing: Tutorial on Vibe Coding &amp; Vibe Research for LLM Research</p>
 <p><a href="https://github.com/SSD114/skadi-pet">SSD114/skadi-pet</a> — A custom Codex pet for Skadi from Arknights.</p>
-<p><a href="https://github.com/SSD114/SSD114">SSD114/SSD114</a> — </p>
 ## PHP
 
 <p><a href="https://github.com/ZainCheung/netease-cloud-api">ZainCheung/netease-cloud-api</a> — 网易云音乐升级API</p>
@@ -80,6 +79,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
+<p><a href="https://github.com/google/elephant-goldfish-model">google/elephant-goldfish-model</a> — Open-source skills for designing and reviewing software with AI agents</p>
 <p><a href="https://github.com/AI4QC/catdt-gs">AI4QC/catdt-gs</a> — A self-evolving multi-agent system (digital twin) for autonomous heterogeneous catalysis discovery</p>
 <p><a href="https://github.com/davanstrien/hf-find">davanstrien/hf-find</a> — hf CLI extension: semantic search over Hugging Face Hub datasets &amp; models</p>
 <p><a href="https://github.com/HenokB/hfsearch">HenokB/hfsearch</a> — cli tool to search for models/datasets on huggingface and export them easily</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-27T05:06:41.485604+00:00 · UTC.
+Snapshot: 2026-10-28T05:43:25.388623+00:00 · UTC.

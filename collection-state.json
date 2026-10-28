@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "language": "Python",
+      "description": "Open-source skills for designing and reviewing software with AI agents"
+    },
+    {
       "name": "antest1/GotoBrowser",
       "url": "https://github.com/antest1/GotoBrowser",
       "language": "Java",
@@ -593,12 +599,6 @@
       "url": "https://github.com/antirez/ds4",
       "language": "C",
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
-    },
-    {
-      "name": "SSD114/SSD114",
-      "url": "https://github.com/SSD114/SSD114",
-      "language": "Other",
-      "description": ""
     }
   ],
   "events": [],
