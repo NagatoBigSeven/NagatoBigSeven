@@ -106,7 +106,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/facebookresearch/TUA-Bench">facebookresearch/TUA-Bench</a> — A benchmark for general-purpose terminal-use agents.</p>
 <p><a href="https://github.com/langchain-ai/langgraph">langchain-ai/langgraph</a> — Build resilient agents.</p>
 <p><a href="https://github.com/1anj/academic-integrity-skill">1anj/academic-integrity-skill</a> — 耿同学 Skill ｜ Academic-Integrity Self-Audit Skill</p>
-<p><a href="https://github.com/ok-oldking/ok-script">ok-oldking/ok-script</a> — Modern Python Computer Vision Automation Framework</p>
+<p><a href="https://github.com/ok-oldking/ok-script">ok-oldking/ok-script</a> — Python Automation Framework for MCP development</p>
 <p><a href="https://github.com/NVIDIA/SkillSpector">NVIDIA/SkillSpector</a> — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</p>
 <p><a href="https://github.com/harbor-framework/terminal-bench">harbor-framework/terminal-bench</a> — Measuring and evolving with the frontier of agent work</p>
 <p><a href="https://github.com/deepseek-ai/DeepSpec">deepseek-ai/DeepSpec</a> — DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-28T05:43:25.388623+00:00 · UTC.
+Snapshot: 2026-10-29T05:49:43.634859+00:00 · UTC.
