@@ -55,7 +55,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/osfans/trime">osfans/trime</a> — 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android</p>
 ## Markdown
 
-<p><a href="https://github.com/wanshuiyin/HERO-Anti-OverDefense">wanshuiyin/HERO-Anti-OverDefense</a> — HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.</p>
 <p><a href="https://github.com/emilkowalski/skills">emilkowalski/skills</a> — Skills for Designers and Engineers.</p>
 ## Other
 
@@ -87,6 +86,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/0xpili/simplified-technical-english">0xpili/simplified-technical-english</a> — An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.</p>
 <p><a href="https://github.com/ZainCheung/netease-cloud-fastplay">ZainCheung/netease-cloud-fastplay</a> — 网易云音乐快速听歌，自定义听歌风格，一键刷听歌次数</p>
 <p><a href="https://github.com/RosettaCommons/RFdiffusion">RosettaCommons/RFdiffusion</a> — Code for running RFdiffusion</p>
+<p><a href="https://github.com/wanshuiyin/HERO-Anti-OverDefense">wanshuiyin/HERO-Anti-OverDefense</a> — HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.</p>
 <p><a href="https://github.com/google-deepmind/alphafold">google-deepmind/alphafold</a> — Open source code for AlphaFold 2.</p>
 <p><a href="https://github.com/ningzimu/codex-ppt-skill">ningzimu/codex-ppt-skill</a> — GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents</p>
 <p><a href="https://github.com/tigerdyger/PaperScout">tigerdyger/PaperScout</a> — A reproducible CLI assistant for discovering high-attention AI/AI4S papers and generating evidence-grounded reading reports.</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-10-31T05:42:37.500601+00:00 · UTC.
+Snapshot: 2026-11-01T06:06:40.722787+00:00 · UTC.
