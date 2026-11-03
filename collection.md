@@ -106,7 +106,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/facebookresearch/TUA-Bench">facebookresearch/TUA-Bench</a> — A benchmark for general-purpose terminal-use agents.</p>
 <p><a href="https://github.com/langchain-ai/langgraph">langchain-ai/langgraph</a> — Build resilient agents.</p>
 <p><a href="https://github.com/1anj/academic-integrity-skill">1anj/academic-integrity-skill</a> — 耿同学 Skill ｜ Academic-Integrity Self-Audit Skill</p>
-<p><a href="https://github.com/ok-oldking/ok-script">ok-oldking/ok-script</a> — Python Automation Framework for MCP development</p>
+<p><a href="https://github.com/ok-oldking/ok-script">ok-oldking/ok-script</a> — Vibe Coding Automation Framework</p>
 <p><a href="https://github.com/NVIDIA/SkillSpector">NVIDIA/SkillSpector</a> — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</p>
 <p><a href="https://github.com/harbor-framework/terminal-bench">harbor-framework/terminal-bench</a> — Measuring and evolving with the frontier of agent work</p>
 <p><a href="https://github.com/deepseek-ai/DeepSpec">deepseek-ai/DeepSpec</a> — DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms</p>
@@ -119,7 +119,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/openvla/openvla">openvla/openvla</a> — OpenVLA: An open-source vision-language-action model for robotic manipulation.</p>
 ## Rust
 
-<p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker &amp; Assistant for macOS &amp; Windows</p>
+<p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai</p>
 <p><a href="https://github.com/tinyhumansai/openhuman">tinyhumansai/openhuman</a> — The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.</p>
 ## Shell
 
@@ -137,7 +137,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced">shd101wyy/vscode-markdown-preview-enhanced</a> — One of the &quot;BEST&quot; markdown preview extensions for Visual Studio Code</p>
 <p><a href="https://github.com/hicccc77/WeFlow">hicccc77/WeFlow</a> — WeFlow - 一个本地的微信聊天记录导出和年度报告应用</p>
 <p><a href="https://github.com/langchain-ai/openwiki">langchain-ai/openwiki</a> — OpenWiki is a CLI that writes and maintains agent documentation for your codebase.</p>
-<p><a href="https://github.com/mksglu/context-mode">mksglu/context-mode</a> — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.</p>
+<p><a href="https://github.com/mksglu/context-mode">mksglu/context-mode</a> — Free, local plugin that keeps tool output out of your coding agent&#x27;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.</p>
 <p><a href="https://github.com/xingwudao/xquant-beginner">xingwudao/xquant-beginner</a> — 《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。</p>
 <p><a href="https://github.com/yamadashy/repomix">yamadashy/repomix</a> — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.</p>
 <p><a href="https://github.com/rohitg00/agentmemory">rohitg00/agentmemory</a> — #1 Persistent memory for AI coding agents based on real-world benchmarks</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-02T06:05:23.231910+00:00 · UTC.
+Snapshot: 2026-11-03T06:49:06.781948+00:00 · UTC.

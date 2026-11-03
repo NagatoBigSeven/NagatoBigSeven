@@ -304,7 +304,7 @@
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "language": "Rust",
-      "description": "Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% local processing. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker & Assistant for macOS & Windows"
+      "description": "Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai"
     },
     {
       "name": "langchain-ai/openwiki",
@@ -364,7 +364,7 @@
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "language": "TypeScript",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry."
     },
     {
       "name": "shinaoka/agentic-ai-coding-rust",
@@ -388,7 +388,7 @@
       "name": "ok-oldking/ok-script",
       "url": "https://github.com/ok-oldking/ok-script",
       "language": "Python",
-      "description": "Python Automation Framework for MCP development"
+      "description": "Vibe Coding Automation Framework"
     },
     {
       "name": "rmyndharis/antigravity-skills",
