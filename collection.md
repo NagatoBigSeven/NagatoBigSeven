@@ -42,6 +42,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/conorbronsdon/avoid-ai-writing">conorbronsdon/avoid-ai-writing</a> — Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.</p>
 <p><a href="https://github.com/Fei-Away/Codex-Dream-Skin">Fei-Away/Codex-Dream-Skin</a> — Codex Dream Skin</p>
 <p><a href="https://github.com/WRicd/DEEDScape">WRicd/DEEDScape</a> — DEED: The Dreamscape Visualization is an interactive, WebGL-powered data visualization project.</p>
+<p><a href="https://github.com/mksglu/context-mode">mksglu/context-mode</a> — Free, local plugin that keeps tool output out of your coding agent&#x27;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.</p>
 <p><a href="https://github.com/rmyndharis/antigravity-skills">rmyndharis/antigravity-skills</a> — A curated collection of Agent Skills for Google Antigravity</p>
 <p><a href="https://github.com/DietrichGebert/ponytail">DietrichGebert/ponytail</a> — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</p>
 <p><a href="https://github.com/Fzhiyu1/improv-os">Fzhiyu1/improv-os</a> — 现编OS — 一台不预装任何软件的电脑，每个应用都是 AI 当场现编的 macOS 风格网页OS · An OS where every app is improvised by AI, live</p>
@@ -137,7 +138,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced">shd101wyy/vscode-markdown-preview-enhanced</a> — One of the &quot;BEST&quot; markdown preview extensions for Visual Studio Code</p>
 <p><a href="https://github.com/hicccc77/WeFlow">hicccc77/WeFlow</a> — WeFlow - 一个本地的微信聊天记录导出和年度报告应用</p>
 <p><a href="https://github.com/langchain-ai/openwiki">langchain-ai/openwiki</a> — OpenWiki is a CLI that writes and maintains agent documentation for your codebase.</p>
-<p><a href="https://github.com/mksglu/context-mode">mksglu/context-mode</a> — Free, local plugin that keeps tool output out of your coding agent&#x27;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.</p>
 <p><a href="https://github.com/xingwudao/xquant-beginner">xingwudao/xquant-beginner</a> — 《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。</p>
 <p><a href="https://github.com/yamadashy/repomix">yamadashy/repomix</a> — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.</p>
 <p><a href="https://github.com/rohitg00/agentmemory">rohitg00/agentmemory</a> — #1 Persistent memory for AI coding agents based on real-world benchmarks</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-04T06:23:57.415017+00:00 · UTC.
+Snapshot: 2026-11-05T06:48:04.232535+00:00 · UTC.

@@ -363,7 +363,7 @@
     {
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
-      "language": "TypeScript",
+      "language": "JavaScript",
       "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry."
     },
     {
