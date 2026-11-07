@@ -4,7 +4,7 @@
       "name": "google/elephant-goldfish-model",
       "url": "https://github.com/google/elephant-goldfish-model",
       "language": "Python",
-      "description": "Open-source skills for designing and reviewing software with AI agents"
+      "description": "Open-source plugin for designing and reviewing software with agents"
     },
     {
       "name": "antest1/GotoBrowser",
