@@ -6,7 +6,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 ## C
 
 <p><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a> — Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.</p>
-<p><a href="https://github.com/antirez/ds4">antirez/ds4</a> — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</p>
 ## C#
 
 <p><a href="https://github.com/ChivaLryCieux/Aftermath">ChivaLryCieux/Aftermath</a> — Aftermath, one of 2025 Tongji D&amp;I game design programs, made with Unity 2022.</p>
@@ -33,7 +32,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Xin-Jiaqi/minimal-academic-homepage">Xin-Jiaqi/minimal-academic-homepage</a> — A minimal, responsive academic homepage template for GitHub Pages</p>
 ## Java
 
-<p><a href="https://github.com/antest1/GotoBrowser">antest1/GotoBrowser</a> — Android Browser for KanColle 2nd Phase (HTML5)</p>
 <p><a href="https://github.com/freedom-introvert/biliSendCommAntifraud">freedom-introvert/biliSendCommAntifraud</a> — 哔哩发评反诈</p>
 <p><a href="https://github.com/pengliangAndroid/VirtualLocation">pengliangAndroid/VirtualLocation</a> — 免root虚拟定位</p>
 ## JavaScript
@@ -53,6 +51,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/AI4QC/AdsMind">AI4QC/AdsMind</a> — A Physics-Grounded Agent for Self-Correcting Adsorption Configuration Discovery on Heterogeneous Catalyst Surfaces</p>
 ## Kotlin
 
+<p><a href="https://github.com/antest1/GotoBrowser">antest1/GotoBrowser</a> — Android Browser for KanColle 2nd Phase (HTML5)</p>
 <p><a href="https://github.com/osfans/trime">osfans/trime</a> — 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android</p>
 ## Markdown
 
@@ -79,6 +78,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
+<p><a href="https://github.com/ChenLiu-1996/figures4papers">ChenLiu-1996/figures4papers</a> — My Python scripts to make high-quality figures for publications in top AI conferences and journals.</p>
 <p><a href="https://github.com/google/elephant-goldfish-model">google/elephant-goldfish-model</a> — Open-source plugin for designing and reviewing software with agents</p>
 <p><a href="https://github.com/AI4QC/catdt-gs">AI4QC/catdt-gs</a> — A self-evolving multi-agent system (digital twin) for autonomous heterogeneous catalysis discovery</p>
 <p><a href="https://github.com/davanstrien/hf-find">davanstrien/hf-find</a> — hf CLI extension: semantic search over Hugging Face Hub datasets &amp; models</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-10T07:19:19.945053+00:00 · UTC.
+Snapshot: 2026-11-11T06:22:47.335029+00:00 · UTC.

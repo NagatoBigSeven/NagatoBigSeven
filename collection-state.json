@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "ChenLiu-1996/figures4papers",
+      "url": "https://github.com/ChenLiu-1996/figures4papers",
+      "language": "Python",
+      "description": "My Python scripts to make high-quality figures for publications in top AI conferences and journals."
+    },
+    {
       "name": "google/elephant-goldfish-model",
       "url": "https://github.com/google/elephant-goldfish-model",
       "language": "Python",
@@ -9,7 +15,7 @@
     {
       "name": "antest1/GotoBrowser",
       "url": "https://github.com/antest1/GotoBrowser",
-      "language": "Java",
+      "language": "Kotlin",
       "description": "Android Browser for KanColle 2nd Phase (HTML5)"
     },
     {
@@ -593,12 +599,6 @@
       "url": "https://github.com/openvla/openvla",
       "language": "Python",
       "description": "OpenVLA: An open-source vision-language-action model for robotic manipulation."
-    },
-    {
-      "name": "antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "language": "C",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
     }
   ],
   "events": [],
