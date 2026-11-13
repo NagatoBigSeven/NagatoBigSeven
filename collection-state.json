@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "Rain-dust/HowToCompeteBetter",
+      "url": "https://github.com/Rain-dust/HowToCompeteBetter",
+      "language": "Other",
+      "description": ""
+    },
+    {
       "name": "ChenLiu-1996/figures4papers",
       "url": "https://github.com/ChenLiu-1996/figures4papers",
       "language": "Python",
@@ -593,12 +599,6 @@
       "url": "https://github.com/avinash201199/Free-courses-with-Certificates",
       "language": "CSS",
       "description": "Collection of free courses with certificates"
-    },
-    {
-      "name": "openvla/openvla",
-      "url": "https://github.com/openvla/openvla",
-      "language": "Python",
-      "description": "OpenVLA: An open-source vision-language-action model for robotic manipulation."
     }
   ],
   "events": [],

@@ -58,6 +58,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/emilkowalski/skills">emilkowalski/skills</a> — Skills for Designers and Engineers.</p>
 ## Other
 
+<p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — </p>
 <p><a href="https://github.com/NagatoBigSeven/NagatoBigSeven">NagatoBigSeven/NagatoBigSeven</a> — My GitHub Profile README.</p>
 <p><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">abhisheknaiidu/awesome-github-profile-readme</a> — 😎 A curated list of awesome GitHub Profile which updates in real time </p>
 <p><a href="https://github.com/Yijia-Xiao/Protein-LLM-Survey">Yijia-Xiao/Protein-LLM-Survey</a> — Large Language Models in Protein: A Comprehensive Survey</p>
@@ -117,7 +118,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Westlake-AGI-Lab/AppAgentX">Westlake-AGI-Lab/AppAgentX</a> — Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users</p>
 <p><a href="https://github.com/public-clis/bilibili-cli">public-clis/bilibili-cli</a> — A CLI for Bilibili — browse videos, users, search, and feeds from the terminal</p>
 <p><a href="https://github.com/jackwener/xiaohongshu-cli">jackwener/xiaohongshu-cli</a> — A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API</p>
-<p><a href="https://github.com/openvla/openvla">openvla/openvla</a> — OpenVLA: An open-source vision-language-action model for robotic manipulation.</p>
 ## Rust
 
 <p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-12T07:12:06.393646+00:00 · UTC.
+Snapshot: 2026-11-13T06:46:31.544477+00:00 · UTC.
