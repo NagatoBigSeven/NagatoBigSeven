@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "Adkid-Zephyr/anti-defensive-writing-Skill",
+      "url": "https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill",
+      "language": "Python",
+      "description": "极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)"
+    },
+    {
       "name": "Rain-dust/HowToCompeteBetter",
       "url": "https://github.com/Rain-dust/HowToCompeteBetter",
       "language": "Other",
@@ -593,12 +599,6 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "language": "Rust",
       "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS."
-    },
-    {
-      "name": "avinash201199/Free-courses-with-Certificates",
-      "url": "https://github.com/avinash201199/Free-courses-with-Certificates",
-      "language": "CSS",
-      "description": "Collection of free courses with certificates"
     }
   ],
   "events": [],

@@ -14,9 +14,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 
 <p><a href="https://github.com/fcitx/fcitx5-rime">fcitx/fcitx5-rime</a> — Rime (中州韵) support for fcitx5</p>
 <p><a href="https://github.com/rime/weasel">rime/weasel</a> — 【小狼毫】Rime for Windows</p>
-## CSS
-
-<p><a href="https://github.com/avinash201199/Free-courses-with-Certificates">avinash201199/Free-courses-with-Certificates</a> — Collection of free courses with certificates</p>
 ## Dart
 
 <p><a href="https://github.com/Predidit/Kazumi">Predidit/Kazumi</a> — 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</p>
@@ -79,6 +76,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
+<p><a href="https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill">Adkid-Zephyr/anti-defensive-writing-Skill</a> — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)</p>
 <p><a href="https://github.com/ChenLiu-1996/figures4papers">ChenLiu-1996/figures4papers</a> — My Python scripts to make high-quality figures for publications in top AI conferences and journals.</p>
 <p><a href="https://github.com/google/elephant-goldfish-model">google/elephant-goldfish-model</a> — Open-source plugin for designing and reviewing software with agents</p>
 <p><a href="https://github.com/AI4QC/catdt-gs">AI4QC/catdt-gs</a> — A self-evolving multi-agent system (digital twin) for autonomous heterogeneous catalysis discovery</p>
@@ -161,4 +159,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-13T06:46:31.544477+00:00 · UTC.
+Snapshot: 2026-11-14T06:24:32.705348+00:00 · UTC.
