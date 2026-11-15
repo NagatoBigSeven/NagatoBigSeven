@@ -37,7 +37,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/conorbronsdon/avoid-ai-writing">conorbronsdon/avoid-ai-writing</a> — Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.</p>
 <p><a href="https://github.com/Fei-Away/Codex-Dream-Skin">Fei-Away/Codex-Dream-Skin</a> — Codex Dream Skin</p>
 <p><a href="https://github.com/WRicd/DEEDScape">WRicd/DEEDScape</a> — DEED: The Dreamscape Visualization is an interactive, WebGL-powered data visualization project.</p>
-<p><a href="https://github.com/mksglu/context-mode">mksglu/context-mode</a> — Free, local plugin that keeps tool output out of your coding agent&#x27;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.</p>
+<p><a href="https://github.com/mksglu/context-mode">mksglu/context-mode</a> — Free, local plugin that keeps tool output out of your coding agent&#x27;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.</p>
 <p><a href="https://github.com/rmyndharis/antigravity-skills">rmyndharis/antigravity-skills</a> — A curated collection of Agent Skills for Google Antigravity</p>
 <p><a href="https://github.com/DietrichGebert/ponytail">DietrichGebert/ponytail</a> — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</p>
 <p><a href="https://github.com/Fzhiyu1/improv-os">Fzhiyu1/improv-os</a> — 现编OS — 一台不预装任何软件的电脑，每个应用都是 AI 当场现编的 macOS 风格网页OS · An OS where every app is improvised by AI, live</p>
@@ -118,8 +118,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/jackwener/xiaohongshu-cli">jackwener/xiaohongshu-cli</a> — A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API</p>
 ## Rust
 
-<p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai</p>
-<p><a href="https://github.com/tinyhumansai/openhuman">tinyhumansai/openhuman</a> — The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.</p>
+<p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai</p>
 ## Shell
 
 <p><a href="https://github.com/ip2a/clash-cli">ip2a/clash-cli</a> — 只需要有订阅链接，在linux命令行中轻松使用clash代理</p>
@@ -132,6 +131,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/jaywcjlove/awesome-swift-macos-apps">jaywcjlove/awesome-swift-macos-apps</a> — A curated collection of open-source macOS applications built with Swift</p>
 ## TypeScript
 
+<p><a href="https://github.com/XiaoDuoYa/codex-with-chatgpt">XiaoDuoYa/codex-with-chatgpt</a> — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.</p>
 <p><a href="https://github.com/morluto/rea">morluto/rea</a> — Reverse engineer anything with agents, from app behavior down to native binaries.</p>
 <p><a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced">shd101wyy/vscode-markdown-preview-enhanced</a> — One of the &quot;BEST&quot; markdown preview extensions for Visual Studio Code</p>
 <p><a href="https://github.com/hicccc77/WeFlow">hicccc77/WeFlow</a> — WeFlow - 一个本地的微信聊天记录导出和年度报告应用</p>
@@ -159,4 +159,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-14T06:24:32.705348+00:00 · UTC.
+Snapshot: 2026-11-15T06:33:33.919117+00:00 · UTC.

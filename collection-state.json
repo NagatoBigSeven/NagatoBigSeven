@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "language": "TypeScript",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
+    },
+    {
       "name": "Adkid-Zephyr/anti-defensive-writing-Skill",
       "url": "https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill",
       "language": "Python",
@@ -322,7 +328,7 @@
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "language": "Rust",
-      "description": "Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai"
+      "description": "Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai"
     },
     {
       "name": "langchain-ai/openwiki",
@@ -382,7 +388,7 @@
       "name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "language": "JavaScript",
-      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry."
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry."
     },
     {
       "name": "shinaoka/agentic-ai-coding-rust",
@@ -593,12 +599,6 @@
       "url": "https://github.com/SSD114/skadi-pet",
       "language": "Other",
       "description": "A custom Codex pet for Skadi from Arknights."
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "language": "Rust",
-      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS."
     }
   ],
   "events": [],
