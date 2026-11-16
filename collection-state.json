@@ -1,6 +1,24 @@
 {
   "stars": [
     {
+      "name": "wuyoscar/GPT-Image2-Skill",
+      "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "language": "Python",
+      "description": "GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing"
+    },
+    {
+      "name": "jing1312/nature-figure-skill",
+      "url": "https://github.com/jing1312/nature-figure-skill",
+      "language": "JavaScript",
+      "description": "追求每一张图的完美，支持直接修改图片，让每一张图都经得起审稿人的追问"
+    },
+    {
+      "name": "AIScientists-Dev/academic-humanizer",
+      "url": "https://github.com/AIScientists-Dev/academic-humanizer",
+      "language": "Other",
+      "description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind."
+    },
+    {
       "name": "XiaoDuoYa/codex-with-chatgpt",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "language": "TypeScript",
@@ -15,8 +33,8 @@
     {
       "name": "Rain-dust/HowToCompeteBetter",
       "url": "https://github.com/Rain-dust/HowToCompeteBetter",
-      "language": "Other",
-      "description": ""
+      "language": "Python",
+      "description": "大学生竞赛 × AI Agent：连续排名、选赛资源、开赛模板、Modex与Codex/Claude数模实战。"
     },
     {
       "name": "ChenLiu-1996/figures4papers",
@@ -581,24 +599,6 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "language": "TypeScript",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
-    },
-    {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "language": "TypeScript",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
-    },
-    {
-      "name": "jackwener/xiaohongshu-cli",
-      "url": "https://github.com/jackwener/xiaohongshu-cli",
-      "language": "Python",
-      "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
-    },
-    {
-      "name": "SSD114/skadi-pet",
-      "url": "https://github.com/SSD114/skadi-pet",
-      "language": "Other",
-      "description": "A custom Codex pet for Skadi from Arknights."
     }
   ],
   "events": [],

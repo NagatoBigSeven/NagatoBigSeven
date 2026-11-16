@@ -33,6 +33,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/pengliangAndroid/VirtualLocation">pengliangAndroid/VirtualLocation</a> — 免root虚拟定位</p>
 ## JavaScript
 
+<p><a href="https://github.com/jing1312/nature-figure-skill">jing1312/nature-figure-skill</a> — 追求每一张图的完美，支持直接修改图片，让每一张图都经得起审稿人的追问</p>
 <p><a href="https://github.com/c1overzz/dsh-bili-scroll">c1overzz/dsh-bili-scroll</a> — DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你</p>
 <p><a href="https://github.com/conorbronsdon/avoid-ai-writing">conorbronsdon/avoid-ai-writing</a> — Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.</p>
 <p><a href="https://github.com/Fei-Away/Codex-Dream-Skin">Fei-Away/Codex-Dream-Skin</a> — Codex Dream Skin</p>
@@ -55,7 +56,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/emilkowalski/skills">emilkowalski/skills</a> — Skills for Designers and Engineers.</p>
 ## Other
 
-<p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — </p>
+<p><a href="https://github.com/AIScientists-Dev/academic-humanizer">AIScientists-Dev/academic-humanizer</a> — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.</p>
 <p><a href="https://github.com/NagatoBigSeven/NagatoBigSeven">NagatoBigSeven/NagatoBigSeven</a> — My GitHub Profile README.</p>
 <p><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">abhisheknaiidu/awesome-github-profile-readme</a> — 😎 A curated list of awesome GitHub Profile which updates in real time </p>
 <p><a href="https://github.com/Yijia-Xiao/Protein-LLM-Survey">Yijia-Xiao/Protein-LLM-Survey</a> — Large Language Models in Protein: A Comprehensive Survey</p>
@@ -67,7 +68,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/NagatoBigSeven/Nagato-no-Quantum-Information-Notes">NagatoBigSeven/Nagato-no-Quantum-Information-Notes</a> — Nagato&#x27;s Markdown notes of HKUST course PHYS1007 - Quantum Information for Everyone taught by Prof. Shilin Huang in Spring Semester 2024-25, with formulas rendered in LaTex. Simplified Chinese version only. Use Obsidian to open.</p>
 <p><a href="https://github.com/NeuroDong/Ai-Review">NeuroDong/Ai-Review</a> — Large model-assisted paper review</p>
 <p><a href="https://github.com/zhaochen0110/COMP4221-Vibe-Coding-Tutorial">zhaochen0110/COMP4221-Vibe-Coding-Tutorial</a> — HKUST CSE COMP4221 (L1) - Introduction to Natural Language Processing: Tutorial on Vibe Coding &amp; Vibe Research for LLM Research</p>
-<p><a href="https://github.com/SSD114/skadi-pet">SSD114/skadi-pet</a> — A custom Codex pet for Skadi from Arknights.</p>
 ## PHP
 
 <p><a href="https://github.com/ZainCheung/netease-cloud-api">ZainCheung/netease-cloud-api</a> — 网易云音乐升级API</p>
@@ -76,7 +76,9 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
+<p><a href="https://github.com/wuyoscar/GPT-Image2-Skill">wuyoscar/GPT-Image2-Skill</a> — GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing</p>
 <p><a href="https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill">Adkid-Zephyr/anti-defensive-writing-Skill</a> — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)</p>
+<p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — 大学生竞赛 × AI Agent：连续排名、选赛资源、开赛模板、Modex与Codex/Claude数模实战。</p>
 <p><a href="https://github.com/ChenLiu-1996/figures4papers">ChenLiu-1996/figures4papers</a> — My Python scripts to make high-quality figures for publications in top AI conferences and journals.</p>
 <p><a href="https://github.com/google/elephant-goldfish-model">google/elephant-goldfish-model</a> — Open-source plugin for designing and reviewing software with agents</p>
 <p><a href="https://github.com/AI4QC/catdt-gs">AI4QC/catdt-gs</a> — A self-evolving multi-agent system (digital twin) for autonomous heterogeneous catalysis discovery</p>
@@ -115,7 +117,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/agent-infra/sandbox">agent-infra/sandbox</a> — All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.</p>
 <p><a href="https://github.com/Westlake-AGI-Lab/AppAgentX">Westlake-AGI-Lab/AppAgentX</a> — Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users</p>
 <p><a href="https://github.com/public-clis/bilibili-cli">public-clis/bilibili-cli</a> — A CLI for Bilibili — browse videos, users, search, and feeds from the terminal</p>
-<p><a href="https://github.com/jackwener/xiaohongshu-cli">jackwener/xiaohongshu-cli</a> — A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API</p>
 ## Rust
 
 <p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai</p>
@@ -139,7 +140,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/xingwudao/xquant-beginner">xingwudao/xquant-beginner</a> — 《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。</p>
 <p><a href="https://github.com/yamadashy/repomix">yamadashy/repomix</a> — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.</p>
 <p><a href="https://github.com/rohitg00/agentmemory">rohitg00/agentmemory</a> — #1 Persistent memory for AI coding agents based on real-world benchmarks</p>
-<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory">TencentCloud/TencentDB-Agent-Memory</a> — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</p>
 ## Typst
 
 <p><a href="https://github.com/shinaoka/agentic-ai-coding-rust">shinaoka/agentic-ai-coding-rust</a> — Lecture slides: Agentic AI Coding × Rust (物理屋のための機械学習講義 #22)</p>
@@ -159,4 +159,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-15T06:33:33.919117+00:00 · UTC.
+Snapshot: 2026-11-16T06:31:22.861368+00:00 · UTC.
