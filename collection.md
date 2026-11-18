@@ -76,9 +76,10 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
+<p><a href="https://github.com/gylive/google-ultra">gylive/google-ultra</a> — </p>
 <p><a href="https://github.com/wuyoscar/GPT-Image2-Skill">wuyoscar/GPT-Image2-Skill</a> — GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing</p>
 <p><a href="https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill">Adkid-Zephyr/anti-defensive-writing-Skill</a> — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)</p>
-<p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — 大学生竞赛 × AI Agent：连续排名、选赛资源、开赛模板、Modex与Codex/Claude数模实战。</p>
+<p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — 高性价比大学生竞赛指南：10章按问题查，27项连续制作参考、73条赛事入口、Agent数模教程与真题复现。</p>
 <p><a href="https://github.com/ChenLiu-1996/figures4papers">ChenLiu-1996/figures4papers</a> — My Python scripts to make high-quality figures for publications in top AI conferences and journals.</p>
 <p><a href="https://github.com/google/elephant-goldfish-model">google/elephant-goldfish-model</a> — Open-source plugin for designing and reviewing software with agents</p>
 <p><a href="https://github.com/AI4QC/catdt-gs">AI4QC/catdt-gs</a> — A self-evolving multi-agent system (digital twin) for autonomous heterogeneous catalysis discovery</p>
@@ -139,7 +140,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/langchain-ai/openwiki">langchain-ai/openwiki</a> — OpenWiki is a CLI that writes and maintains agent documentation for your codebase.</p>
 <p><a href="https://github.com/xingwudao/xquant-beginner">xingwudao/xquant-beginner</a> — 《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。</p>
 <p><a href="https://github.com/yamadashy/repomix">yamadashy/repomix</a> — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.</p>
-<p><a href="https://github.com/rohitg00/agentmemory">rohitg00/agentmemory</a> — #1 Persistent memory for AI coding agents based on real-world benchmarks</p>
 ## Typst
 
 <p><a href="https://github.com/shinaoka/agentic-ai-coding-rust">shinaoka/agentic-ai-coding-rust</a> — Lecture slides: Agentic AI Coding × Rust (物理屋のための機械学習講義 #22)</p>
@@ -159,4 +159,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-17T07:55:35.993652+00:00 · UTC.
+Snapshot: 2026-11-18T07:29:50.037512+00:00 · UTC.

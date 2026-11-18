@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "gylive/google-ultra",
+      "url": "https://github.com/gylive/google-ultra",
+      "language": "Python",
+      "description": ""
+    },
+    {
       "name": "wuyoscar/GPT-Image2-Skill",
       "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
       "language": "Python",
@@ -34,7 +40,7 @@
       "name": "Rain-dust/HowToCompeteBetter",
       "url": "https://github.com/Rain-dust/HowToCompeteBetter",
       "language": "Python",
-      "description": "大学生竞赛 × AI Agent：连续排名、选赛资源、开赛模板、Modex与Codex/Claude数模实战。"
+      "description": "高性价比大学生竞赛指南：10章按问题查，27项连续制作参考、73条赛事入口、Agent数模教程与真题复现。"
     },
     {
       "name": "ChenLiu-1996/figures4papers",
@@ -593,12 +599,6 @@
       "url": "https://github.com/public-clis/bilibili-cli",
       "language": "Python",
       "description": "A CLI for Bilibili — browse videos, users, search, and feeds from the terminal"
-    },
-    {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "language": "TypeScript",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
     }
   ],
   "events": [],
