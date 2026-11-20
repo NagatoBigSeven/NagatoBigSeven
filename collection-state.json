@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "gylive/google-ultra",
+      "url": "https://github.com/gylive/google-ultra",
+      "language": "Python",
+      "description": ""
+    },
+    {
       "name": "wuyoscar/GPT-Image2-Skill",
       "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
       "language": "Python",
@@ -593,12 +599,6 @@
       "url": "https://github.com/public-clis/bilibili-cli",
       "language": "Python",
       "description": "A CLI for Bilibili — browse videos, users, search, and feeds from the terminal"
-    },
-    {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "language": "TypeScript",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
     }
   ],
   "events": [],
