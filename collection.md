@@ -63,6 +63,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/ev-ev/mLearn">ev-ev/mLearn</a> — A cross-platform desktop application made for Super-Fast Language Learning by immersion. Watch your favourite content in your target language.</p>
 <p><a href="https://github.com/google-deepmind/synthidbio">google-deepmind/synthidbio</a> — SynthID Bio is a family of methods developed by Google DeepMind for embedding highly detectable yet function-preserving watermarks directly into AI-generated biological sequences and structures.</p>
 <p><a href="https://github.com/feiniaoyun/feiniaoyun">feiniaoyun/feiniaoyun</a> — </p>
+<p><a href="https://github.com/hicccc77/WeFlow">hicccc77/WeFlow</a> — WeFlow - 一个本地的微信聊天记录导出和年度报告应用</p>
 <p><a href="https://github.com/MiniMax-AI/MiniMax-M2">MiniMax-AI/MiniMax-M2</a> — MiniMax-M2, a model built for Max coding &amp; agentic workflows.</p>
 <p><a href="https://github.com/usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery">usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery</a> — [NeurIPS2025] Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition</p>
 <p><a href="https://github.com/NagatoBigSeven/Nagato-no-Quantum-Information-Notes">NagatoBigSeven/Nagato-no-Quantum-Information-Notes</a> — Nagato&#x27;s Markdown notes of HKUST course PHYS1007 - Quantum Information for Everyone taught by Prof. Shilin Huang in Spring Semester 2024-25, with formulas rendered in LaTex. Simplified Chinese version only. Use Obsidian to open.</p>
@@ -136,7 +137,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/XiaoDuoYa/codex-with-chatgpt">XiaoDuoYa/codex-with-chatgpt</a> — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.</p>
 <p><a href="https://github.com/morluto/rea">morluto/rea</a> — Reverse engineer anything with agents, from app behavior down to native binaries.</p>
 <p><a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced">shd101wyy/vscode-markdown-preview-enhanced</a> — One of the &quot;BEST&quot; markdown preview extensions for Visual Studio Code</p>
-<p><a href="https://github.com/hicccc77/WeFlow">hicccc77/WeFlow</a> — WeFlow - 一个本地的微信聊天记录导出和年度报告应用</p>
 <p><a href="https://github.com/langchain-ai/openwiki">langchain-ai/openwiki</a> — OpenWiki is a CLI that writes and maintains agent documentation for your codebase.</p>
 <p><a href="https://github.com/xingwudao/xquant-beginner">xingwudao/xquant-beginner</a> — 《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。</p>
 <p><a href="https://github.com/yamadashy/repomix">yamadashy/repomix</a> — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.</p>
@@ -159,4 +159,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-21T07:09:39.983559+00:00 · UTC.
+Snapshot: 2026-11-22T06:48:59.087702+00:00 · UTC.
