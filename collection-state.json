@@ -1,10 +1,22 @@
 {
   "stars": [
     {
-      "name": "gylive/google-ultra",
-      "url": "https://github.com/gylive/google-ultra",
-      "language": "Python",
+      "name": "lbjlaq/Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "language": "Rust",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。"
+    },
+    {
+      "name": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "language": "JavaScript",
       "description": ""
+    },
+    {
+      "name": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "language": "Python",
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
     },
     {
       "name": "wuyoscar/GPT-Image2-Skill",
@@ -587,18 +599,6 @@
       "url": "https://github.com/Westlake-AGI-Lab/AppAgentX",
       "language": "Python",
       "description": "Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users"
-    },
-    {
-      "name": "jaywcjlove/awesome-swift-macos-apps",
-      "url": "https://github.com/jaywcjlove/awesome-swift-macos-apps",
-      "language": "Swift",
-      "description": "A curated collection of open-source macOS applications built with Swift"
-    },
-    {
-      "name": "public-clis/bilibili-cli",
-      "url": "https://github.com/public-clis/bilibili-cli",
-      "language": "Python",
-      "description": "A CLI for Bilibili — browse videos, users, search, and feeds from the terminal"
     }
   ],
   "events": [],

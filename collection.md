@@ -33,6 +33,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/pengliangAndroid/VirtualLocation">pengliangAndroid/VirtualLocation</a> — 免root虚拟定位</p>
 ## JavaScript
 
+<p><a href="https://github.com/crhywun/g1-acq">crhywun/g1-acq</a> — </p>
 <p><a href="https://github.com/jing1312/nature-figure-skill">jing1312/nature-figure-skill</a> — 追求每一张图的完美，支持直接修改图片，让每一张图都经得起审稿人的追问</p>
 <p><a href="https://github.com/c1overzz/dsh-bili-scroll">c1overzz/dsh-bili-scroll</a> — DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你</p>
 <p><a href="https://github.com/conorbronsdon/avoid-ai-writing">conorbronsdon/avoid-ai-writing</a> — Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.</p>
@@ -77,7 +78,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
-<p><a href="https://github.com/gylive/google-ultra">gylive/google-ultra</a> — </p>
+<p><a href="https://github.com/ItsNotRexed/Leonida">ItsNotRexed/Leonida</a> — Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6</p>
 <p><a href="https://github.com/wuyoscar/GPT-Image2-Skill">wuyoscar/GPT-Image2-Skill</a> — GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing</p>
 <p><a href="https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill">Adkid-Zephyr/anti-defensive-writing-Skill</a> — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)</p>
 <p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — 高性价比大学生竞赛指南：10章按问题查，27项连续制作参考、73条赛事入口、Agent数模教程与真题复现。</p>
@@ -118,9 +119,9 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Yuan1z0825/nature-skills">Yuan1z0825/nature-skills</a> — 符合nature论文学术表达和科研绘图的Skill</p>
 <p><a href="https://github.com/agent-infra/sandbox">agent-infra/sandbox</a> — All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.</p>
 <p><a href="https://github.com/Westlake-AGI-Lab/AppAgentX">Westlake-AGI-Lab/AppAgentX</a> — Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users</p>
-<p><a href="https://github.com/public-clis/bilibili-cli">public-clis/bilibili-cli</a> — A CLI for Bilibili — browse videos, users, search, and feeds from the terminal</p>
 ## Rust
 
+<p><a href="https://github.com/lbjlaq/Antigravity-Manager">lbjlaq/Antigravity-Manager</a> — Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</p>
 <p><a href="https://github.com/Zackriya-Solutions/meetily">Zackriya-Solutions/meetily</a> — Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai</p>
 ## Shell
 
@@ -131,7 +132,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 
 <p><a href="https://github.com/ddddxxx/LyricsX">ddddxxx/LyricsX</a> — 🎶 Ultimate lyrics app for macOS.</p>
 <p><a href="https://github.com/rime/squirrel">rime/squirrel</a> — 【鼠鬚管】Rime for macOS</p>
-<p><a href="https://github.com/jaywcjlove/awesome-swift-macos-apps">jaywcjlove/awesome-swift-macos-apps</a> — A curated collection of open-source macOS applications built with Swift</p>
 ## TypeScript
 
 <p><a href="https://github.com/XiaoDuoYa/codex-with-chatgpt">XiaoDuoYa/codex-with-chatgpt</a> — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.</p>
@@ -159,4 +159,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-22T06:48:59.087702+00:00 · UTC.
+Snapshot: 2026-11-23T07:40:16.976071+00:00 · UTC.
