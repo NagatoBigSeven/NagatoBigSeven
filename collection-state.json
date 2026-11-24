@@ -1,6 +1,12 @@
 {
   "stars": [
     {
+      "name": "gulucaptain/Best-Paper-Writing-Skill",
+      "url": "https://github.com/gulucaptain/Best-Paper-Writing-Skill",
+      "language": "TeX",
+      "description": "[Writing] Claude / Codex skill for drafting abstracts, introductions, methods and experiments in the style of CVPR/ICCV/NeurIPS best papers, distilled from 60 award-winning papers."
+    },
+    {
       "name": "lbjlaq/Antigravity-Manager",
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "language": "Rust",
@@ -11,12 +17,6 @@
       "url": "https://github.com/crhywun/g1-acq",
       "language": "JavaScript",
       "description": ""
-    },
-    {
-      "name": "ItsNotRexed/Leonida",
-      "url": "https://github.com/ItsNotRexed/Leonida",
-      "language": "Python",
-      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
     },
     {
       "name": "wuyoscar/GPT-Image2-Skill",

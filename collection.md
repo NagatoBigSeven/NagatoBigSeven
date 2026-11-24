@@ -78,7 +78,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
-<p><a href="https://github.com/ItsNotRexed/Leonida">ItsNotRexed/Leonida</a> — Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6</p>
 <p><a href="https://github.com/wuyoscar/GPT-Image2-Skill">wuyoscar/GPT-Image2-Skill</a> — GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing</p>
 <p><a href="https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill">Adkid-Zephyr/anti-defensive-writing-Skill</a> — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)</p>
 <p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — 高性价比大学生竞赛指南：10章按问题查，27项连续制作参考、73条赛事入口、Agent数模教程与真题复现。</p>
@@ -132,6 +131,9 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 
 <p><a href="https://github.com/ddddxxx/LyricsX">ddddxxx/LyricsX</a> — 🎶 Ultimate lyrics app for macOS.</p>
 <p><a href="https://github.com/rime/squirrel">rime/squirrel</a> — 【鼠鬚管】Rime for macOS</p>
+## TeX
+
+<p><a href="https://github.com/gulucaptain/Best-Paper-Writing-Skill">gulucaptain/Best-Paper-Writing-Skill</a> — [Writing] Claude / Codex skill for drafting abstracts, introductions, methods and experiments in the style of CVPR/ICCV/NeurIPS best papers, distilled from 60 award-winning papers.</p>
 ## TypeScript
 
 <p><a href="https://github.com/XiaoDuoYa/codex-with-chatgpt">XiaoDuoYa/codex-with-chatgpt</a> — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.</p>
@@ -159,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-23T07:40:16.976071+00:00 · UTC.
+Snapshot: 2026-11-24T09:55:06.395594+00:00 · UTC.
