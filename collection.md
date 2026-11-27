@@ -20,7 +20,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 ## Go
 
 <p><a href="https://github.com/zakelfassi/hfpaper">zakelfassi/hfpaper</a> — CLI for Hugging Face Papers API — search, read, and explore AI research papers from the terminal</p>
-<p><a href="https://github.com/dlvhdr/gh-dash">dlvhdr/gh-dash</a> — A rich terminal UI for GitHub that doesn&#x27;t break your flow.</p>
 ## HTML
 
 <p><a href="https://github.com/Hisn00w/ASu-skills">Hisn00w/ASu-skills</a> — 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。</p>
@@ -33,6 +32,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/pengliangAndroid/VirtualLocation">pengliangAndroid/VirtualLocation</a> — 免root虚拟定位</p>
 ## JavaScript
 
+<p><a href="https://github.com/RMvdesi/obsidian-prism">RMvdesi/obsidian-prism</a> — Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots &amp; dual-mode thought suite for Antigravity (GPL-3.0)</p>
 <p><a href="https://github.com/crhywun/g1-acq">crhywun/g1-acq</a> — </p>
 <p><a href="https://github.com/jing1312/nature-figure-skill">jing1312/nature-figure-skill</a> — 追求每一张图的完美，支持直接修改图片，让每一张图都经得起审稿人的追问</p>
 <p><a href="https://github.com/c1overzz/dsh-bili-scroll">c1overzz/dsh-bili-scroll</a> — DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你</p>
@@ -117,7 +117,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/NagatoBigSeven/Agent-and-Wolf">NagatoBigSeven/Agent-and-Wolf</a> — An ReAct agent that role-plays as the heroine &quot;Wise Wolf&quot; Holo of Isuna Hasekura‘s light novel Spice and Wolf</p>
 <p><a href="https://github.com/Yuan1z0825/nature-skills">Yuan1z0825/nature-skills</a> — 符合nature论文学术表达和科研绘图的Skill</p>
 <p><a href="https://github.com/agent-infra/sandbox">agent-infra/sandbox</a> — All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.</p>
-<p><a href="https://github.com/Westlake-AGI-Lab/AppAgentX">Westlake-AGI-Lab/AppAgentX</a> — Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users</p>
 ## Rust
 
 <p><a href="https://github.com/lbjlaq/Antigravity-Manager">lbjlaq/Antigravity-Manager</a> — Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</p>
@@ -136,6 +135,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/gulucaptain/Best-Paper-Writing-Skill">gulucaptain/Best-Paper-Writing-Skill</a> — [Writing] Claude / Codex skill for drafting abstracts, introductions, methods and experiments in the style of CVPR/ICCV/NeurIPS best papers, distilled from 60 award-winning papers.</p>
 ## TypeScript
 
+<p><a href="https://github.com/stablyai/orca">stablyai/orca</a> — Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.</p>
 <p><a href="https://github.com/XiaoDuoYa/codex-with-chatgpt">XiaoDuoYa/codex-with-chatgpt</a> — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.</p>
 <p><a href="https://github.com/morluto/rea">morluto/rea</a> — Reverse engineer anything with agents, from app behavior down to native binaries.</p>
 <p><a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced">shd101wyy/vscode-markdown-preview-enhanced</a> — One of the &quot;BEST&quot; markdown preview extensions for Visual Studio Code</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-26T08:18:40.802139+00:00 · UTC.
+Snapshot: 2026-11-27T08:35:31.522611+00:00 · UTC.

@@ -1,6 +1,18 @@
 {
   "stars": [
     {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "language": "TypeScript",
+      "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime."
+    },
+    {
+      "name": "RMvdesi/obsidian-prism",
+      "url": "https://github.com/RMvdesi/obsidian-prism",
+      "language": "JavaScript",
+      "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)"
+    },
+    {
       "name": "gulucaptain/Best-Paper-Writing-Skill",
       "url": "https://github.com/gulucaptain/Best-Paper-Writing-Skill",
       "language": "TeX",
@@ -587,18 +599,6 @@
       "url": "https://github.com/yamadashy/repomix",
       "language": "TypeScript",
       "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
-    },
-    {
-      "name": "dlvhdr/gh-dash",
-      "url": "https://github.com/dlvhdr/gh-dash",
-      "language": "Go",
-      "description": "A rich terminal UI for GitHub that doesn't break your flow."
-    },
-    {
-      "name": "Westlake-AGI-Lab/AppAgentX",
-      "url": "https://github.com/Westlake-AGI-Lab/AppAgentX",
-      "language": "Python",
-      "description": "Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users"
     }
   ],
   "events": [],
