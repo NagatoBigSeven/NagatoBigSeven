@@ -22,6 +22,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/zakelfassi/hfpaper">zakelfassi/hfpaper</a> — CLI for Hugging Face Papers API — search, read, and explore AI research papers from the terminal</p>
 ## HTML
 
+<p><a href="https://github.com/Guyungy/damaihelper">Guyungy/damaihelper</a> — 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本</p>
 <p><a href="https://github.com/Hisn00w/ASu-skills">Hisn00w/ASu-skills</a> — 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。</p>
 <p><a href="https://github.com/JimLiu/science-skills">JimLiu/science-skills</a> — </p>
 <p><a href="https://github.com/abxxvrv/spacex-ppt-skill">abxxvrv/spacex-ppt-skill</a> — </p>
@@ -78,6 +79,7 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/Kiterlin/anti-defensive-writing">Kiterlin/anti-defensive-writing</a> — Codex skill for removing defensive writing and strengthening prose.</p>
 ## Python
 
+<p><a href="https://github.com/WECENG/ticket-purchase">WECENG/ticket-purchase</a> — 大麦自动抢票，支持人员、城市、日期场次、价格选择</p>
 <p><a href="https://github.com/wuyoscar/GPT-Image2-Skill">wuyoscar/GPT-Image2-Skill</a> — GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing</p>
 <p><a href="https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill">Adkid-Zephyr/anti-defensive-writing-Skill</a> — 极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)</p>
 <p><a href="https://github.com/Rain-dust/HowToCompeteBetter">Rain-dust/HowToCompeteBetter</a> — 高性价比大学生竞赛指南：10章按问题查，27项连续制作参考、73条赛事入口、Agent数模教程与真题复现。</p>
@@ -116,7 +118,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/deepseek-ai/DeepSpec">deepseek-ai/DeepSpec</a> — DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms</p>
 <p><a href="https://github.com/NagatoBigSeven/Agent-and-Wolf">NagatoBigSeven/Agent-and-Wolf</a> — An ReAct agent that role-plays as the heroine &quot;Wise Wolf&quot; Holo of Isuna Hasekura‘s light novel Spice and Wolf</p>
 <p><a href="https://github.com/Yuan1z0825/nature-skills">Yuan1z0825/nature-skills</a> — 符合nature论文学术表达和科研绘图的Skill</p>
-<p><a href="https://github.com/agent-infra/sandbox">agent-infra/sandbox</a> — All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.</p>
 ## Rust
 
 <p><a href="https://github.com/lbjlaq/Antigravity-Manager">lbjlaq/Antigravity-Manager</a> — Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</p>
@@ -141,7 +142,6 @@ Latest 100 publicly starred repositories, grouped by GitHub primary language. Bo
 <p><a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced">shd101wyy/vscode-markdown-preview-enhanced</a> — One of the &quot;BEST&quot; markdown preview extensions for Visual Studio Code</p>
 <p><a href="https://github.com/langchain-ai/openwiki">langchain-ai/openwiki</a> — OpenWiki is a CLI that writes and maintains agent documentation for your codebase.</p>
 <p><a href="https://github.com/xingwudao/xquant-beginner">xingwudao/xquant-beginner</a> — 《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。</p>
-<p><a href="https://github.com/yamadashy/repomix">yamadashy/repomix</a> — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.</p>
 ## Typst
 
 <p><a href="https://github.com/shinaoka/agentic-ai-coding-rust">shinaoka/agentic-ai-coding-rust</a> — Lecture slides: Agentic AI Coding × Rust (物理屋のための機械学習講義 #22)</p>
@@ -161,4 +161,4 @@ Public GitHub contributor attribution for AdsMind and CatDT; commit attribution 
 <a href="https://github.com/smoakvescio"><img src="https://avatars.githubusercontent.com/u/314697893?v=4" width="48" height="48" alt="smoakvescio" /></a> smoakvescio · AI4QC/catdt-gs<br />
 <a href="https://github.com/szl666"><img src="https://avatars.githubusercontent.com/u/44625390?v=4" width="48" height="48" alt="szl666" /></a> szl666 · AI4QC/catdt-gs<br />
 
-Snapshot: 2026-11-27T08:35:31.522611+00:00 · UTC.
+Snapshot: 2026-11-28T07:50:18.174707+00:00 · UTC.

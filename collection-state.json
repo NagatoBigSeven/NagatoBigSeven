@@ -1,6 +1,18 @@
 {
   "stars": [
     {
+      "name": "Guyungy/damaihelper",
+      "url": "https://github.com/Guyungy/damaihelper",
+      "language": "HTML",
+      "description": "支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本"
+    },
+    {
+      "name": "WECENG/ticket-purchase",
+      "url": "https://github.com/WECENG/ticket-purchase",
+      "language": "Python",
+      "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择"
+    },
+    {
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "language": "TypeScript",
@@ -587,18 +599,6 @@
       "url": "https://github.com/Yuan1z0825/nature-skills",
       "language": "Python",
       "description": "符合nature论文学术表达和科研绘图的Skill"
-    },
-    {
-      "name": "agent-infra/sandbox",
-      "url": "https://github.com/agent-infra/sandbox",
-      "language": "Python",
-      "description": "All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container."
-    },
-    {
-      "name": "yamadashy/repomix",
-      "url": "https://github.com/yamadashy/repomix",
-      "language": "TypeScript",
-      "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
     }
   ],
   "events": [],
